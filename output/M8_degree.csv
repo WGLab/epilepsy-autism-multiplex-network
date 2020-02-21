@@ -1,0 +1,21 @@
+node,degree,type,k_core,DE
+DLG4,75,Autism 1,True,False
+GRM1,49,Epilesy 3,True,True
+GRM5,47,Autism 3,True,True
+GRIA1,45,Autism 2,False,True
+GRIN2B,42,"Epilesy 1, Autism 1",False,True
+DLG3,37,Epilesy 3,True,False
+CAMK2A,35,"Autism 3, Autism S",False,False
+GRIN2A,32,"Epilesy 1, Autism 2",False,True
+GRIA2,32,Autism 2,False,True
+DLG2,31,"Epilesy 4, Autism 2",True,False
+CAMK2B,31,Autism S,False,False
+GRIN1,30,"Epilesy 3, Autism 2",False,True
+DLG1,29,Autism 3,False,False
+NRXN1,26,"Epilesy 3, Autism 1",True,True
+SHANK1,25,"Epilesy 4, Autism 2",True,True
+NRXN2,25,Autism 1,True,False
+NRXN3,24,Autism 1,True,True
+NLGN1,22,"Epilesy 4, Autism 2",True,True
+NLGN2,22,Autism 1,True,False
+DLGAP1,21,Autism 2,True,True
