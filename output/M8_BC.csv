@@ -1,6 +1,6 @@
 node,betweenness,type,k_core,DE
 DLG4,0.02624464295653142,Autism 1,True,False
-GRIA1,0.01128105229958628,Autism 2,False,True
+GRIA1,0.011281052299586277,Autism 2,False,True
 GRIN2B,0.010905062058217844,"Epilesy 1, Autism 1",False,True
 FMR1,0.008942088272944845,"Epilesy 3, Autism 1",False,False
 CAMK2B,0.00578386764624033,Autism S,False,False
