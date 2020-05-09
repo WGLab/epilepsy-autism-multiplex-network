@@ -6,7 +6,7 @@ You will need to download **9606.protein.links.v11.0.txt** from STRING version 1
 
 **9606.protein.info.v11.0.txt** is retrieved from STRING version 11 and contains information to link the protein-protein interactions with their protein/gene names.
 
-**environment.yml** is the Conda environment file that you can use to install all the dependencies for the code.  
+**environment.yml** is the Conda environment file that you can use to install all the dependencies for the code. **Note:** graphviz is required to install pygraphviz. More information about graphviz and how to download it can be found here: http://www.graphviz.org/  
 
 The **figures** directory contains the figures outputted from the code (i.e. **epilepsy-autism.ipynb**), which are used in the paper.  
 
