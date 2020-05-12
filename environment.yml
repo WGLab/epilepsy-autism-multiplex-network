@@ -3,7 +3,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - appnope=0.1.0
   - astropy=4.0.1.post1
   - attrs=19.3.0
   - backcall=0.1.0
@@ -34,6 +33,7 @@ dependencies:
   - glue-core=0.15.6
   - glue-vispy-viewers=0.12.2
   - glueviz=0.15.2
+  - graphviz
   - h5py=2.10.0
   - hdf5=1.10.4
   - heapdict=1.0.1
@@ -41,6 +41,7 @@ dependencies:
   - icu=58.2
   - imageio=2.8.0
   - importlib_metadata=1.5.0
+  - infomap
   - intel-openmp=2019.4
   - ipykernel=5.1.4
   - ipython=7.12.0
@@ -52,12 +53,12 @@ dependencies:
   - jupyter_client=5.3.4
   - jupyter_core=4.6.1
   - kiwisolver=1.1.0
-  - libcxx=4.0.1
-  - libcxxabi=4.0.1
+  - libcxx
+  - libcxxabi
   - libedit=3.1.20181209
   - libffi=3.2.1
-  - libgfortran=3.0.1
-  - libiconv=1.16
+  - libgfortran
+  - libiconv
   - libpng=1.6.37
   - libsodium=1.0.16
   - libtiff=4.1.0
@@ -98,6 +99,7 @@ dependencies:
   - ptyprocess=0.6.0
   - py=1.8.1
   - pygments=2.5.2
+  - pygraphviz
   - pyopengl=3.1.1a1
   - pyparsing=2.4.6
   - pyqt=5.9.2
@@ -111,7 +113,6 @@ dependencies:
   - pytest-remotedata=0.3.2
   - python=3.7.6
   - python-dateutil=2.8.1
-  - python.app=2
   - pywavelets=1.1.1
   - pyyaml=5.3.1
   - pyzmq=18.1.1
@@ -149,6 +150,7 @@ dependencies:
   - zstd=1.3.7
   - pip:
     - alabaster==0.7.12
+    - appnope==0.1.0
     - aslpaw==2.0.1
     - babel==2.8.0
     - bimlpa==0.1.2
@@ -166,7 +168,6 @@ dependencies:
     - gensim==3.8.1
     - idna==2.9
     - imagesize==1.2.0
-    - infomap==1.1.3
     - jmespath==0.9.4
     - joblib==0.14.1
     - karateclub==0.45.13
@@ -182,7 +183,6 @@ dependencies:
     - pandas==1.0.1
     - pquality==0.0.7
     - pulp==1.6.10
-    - pygraphviz==1.5
     - pygsp==0.5.1
     - python-igraph==0.8.0
     - python-louvain==0.13
