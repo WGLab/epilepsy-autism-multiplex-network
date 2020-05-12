@@ -2,9 +2,9 @@
 
 In order to reproduce the results of the paper, run the Jupyter Notebook **epilepsy-autism.ipynb**.  The notebook is divided into different sections and has comments to help you produce the results.  
 
-You will need to download **9606.protein.links.v11.0.txt** from STRING version 11 (https://string-db.org/cgi/download.pl?sessionId=GGXABQ8MKE5v&species_text=Homo+sapiens). This file contains all the protein-protein interactions.
+You will need to download **9606.protein.links.v11.0.txt** from STRING version 11 (https://string-db.org/cgi/download.pl?sessionId=GGXABQ8MKE5v&species_text=Homo+sapiens). This file contains all the protein-protein interactions. If you want to filter by the type of evidence for the protein-protein interactions, you will need to download **9606.protein.links.detailed.v11.0.txt** from the same link.  
 
-**9606.protein.info.v11.0.txt** is retrieved from STRING version 11 and contains information to link the protein-protein interactions with their protein/gene names.
+You will need to download **9606.protein.info.v11.0.txt** from STRING version 11 (https://string-db.org/cgi/download.pl?sessionId=GGXABQ8MKE5v&species_text=Homo+sapiens). The file contains information to link the protein-protein interactions with their protein/gene names.
 
 **environment.yml** is the Conda environment file that you can use to install all the dependencies for the code. **Note:** graphviz is required to install pygraphviz. More information about graphviz and how to download it can be found here: http://www.graphviz.org/  
 
