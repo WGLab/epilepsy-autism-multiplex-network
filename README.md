@@ -26,4 +26,4 @@ The **output** directory contains files outputted from the code.
 
 **gene_info_k_17_with_modules.tsv** has a list of all the k-core genes (k=17) in the epilepsy-autism PPI network, which module they are in, in the k-core, and whether they are an epilepsy gene ("e"), autism gene ("a"), or common gene ("c") that is associated with both epilepsy and autism.
 
-The supplemental tables from the paper can be found in **Supp_tables_20200218.xlsx**.
+The supplemental tables from the paper can be found in **Supp_tables_20200509.xlsx**.
