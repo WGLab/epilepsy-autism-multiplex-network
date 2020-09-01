@@ -26,4 +26,10 @@ The **output** directory contains files outputted from the code.
 
 **gene_info_k_17_with_modules.tsv** has a list of all the k-core genes (k=17) in the epilepsy-autism PPI network, which module they are in, in the k-core, and whether they are an epilepsy gene ("e"), autism gene ("a"), or common gene ("c") that is associated with both epilepsy and autism.
 
+**WES_analysis.ipynb** has the code used for the whole-exome sequencing (WES) analysis that produced supplementary figure 2.
+
+**WES_EPI_gene_burden_AC_1_Epi25_Collaborative_2019.csv** has the WES gene list for epilepsy.
+
+**WES_autism_Satterstrom_2020.csv** has the WES gene list for autism.
+
 The supplemental tables from the paper can be found in **Supp_tables_20200509.xlsx**.
