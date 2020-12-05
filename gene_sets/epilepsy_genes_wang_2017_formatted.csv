@@ -1,0 +1,1006 @@
+gene,role,phenotype,onset,brain_malformation,disorder_class,protein_function,score
+PNPO, Pyridoxamine 5'-phosphate oxidase deficiency,PNPOD,Neonatal,,,,1
+ALDH7A1, Pyridoxine-dependent epilepsy,EPD,Neonatal,,,,1
+KCNQ3, Benign familial neonatal seizures,BFNS,Neonatal,,,,1
+KCNQ2, Benign familial neonatal seizures,BFNS,Neonatal,,,,1
+TBC1D24, Familial infantile myoclonic epilepsy,FIME,Infantile and childhood,,,,1
+SCN2A, Benign familial infantile seizures,BFIS,Infantile and childhood,,,,1
+PRRT2, Benign familial infantile seizures,BFIS,Infantile and childhood,,,,1
+SCN8A, Benign familial infantile seizures,BFIS,Infantile and childhood,,,,1
+ST3GAL5, Amish infantile epilepsy syndrome,AIES,Infantile and childhood,,,,1
+PCDH19, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+KCNT1, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+ARV1, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+STXBP1, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+TBC1D24, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+SPTAN1, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+FRRS1L, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+GNAO1, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+SLC13A5, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+CDKL5, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+KCNB1, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+CACNA1A, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+EEF1A2, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+KCNA2, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+SCN2A, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+SLC1A2, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+FGF12, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+ITPA, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+SCN8A, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+DOCK7, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+ALG13, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+GUF1, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+ARHGEF9, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+GABRB3, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+PLCB1, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+GABRA1, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+NECAP1, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+SZT2, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+SLC25A22, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+DNM1, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+SLC12A5, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+GRIN2D, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+SIK1, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+GRIN2B, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+WWOX, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+ST3GAL3, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+HCN1, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+SLC25A12, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+KCNQ2, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+GABRB1, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+AARS, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+UBA5, Early infantile epileptic encephalopathy,EIEE,Infantile and childhood,,,,1
+SCN9A, Dravet syndrome,DS,Infantile and childhood,,,,1
+SCN1A, Dravet syndrome,DS,Infantile and childhood,,,,1
+SCN9A, Familial febrile seizures,FFS,Infantile and childhood,,,,1
+CPA6, Familial febrile seizures,FFS,Infantile and childhood,,,,1
+SCN1A, Familial febrile seizures,FFS,Infantile and childhood,,,,1
+GPR98, Familial febrile seizures,FFS,Infantile and childhood,,,,1
+GABRG2, Familial febrile seizures,FFS,Infantile and childhood,,,,1
+SCN9A, Generalized epilepsy with febrile seizures plus,GEFS+,Infantile and childhood,,,,1
+STX1B, Generalized epilepsy with febrile seizures plus,GEFS+,Infantile and childhood,,,,1
+SCN1A, Generalized epilepsy with febrile seizures plus,GEFS+,Infantile and childhood,,,,1
+GABRD, Generalized epilepsy with febrile seizures plus,GEFS+,Infantile and childhood,,,,1
+GABRG2, Generalized epilepsy with febrile seizures plus,GEFS+,Infantile and childhood,,,,1
+SCN1B, Generalized epilepsy with febrile seizures plus,GEFS+,Infantile and childhood,,,,1
+KCNMA1, Generalized epilepsy and paroxysmal dyskinesia,GEPD,Infantile and childhood,,,,1
+SLC6A1, Myoclonic-atonic epilepsy,MAE,Infantile and childhood,,,,1
+CHD2, Childhood-onset epileptic encephalopathy,COEE,Infantile and childhood,,,,1
+GRIN2A, Focal epilepsy and speech disorder with or without mental retardation,FESD,Infantile and childhood,,,,1
+GABRB3, Childhood absence epilepsy,CAE,Infantile and childhood,,,,1
+GABRG2, Childhood absence epilepsy,CAE,Infantile and childhood,,,,1
+CACNA1H, Childhood absence epilepsy,CAE,Infantile and childhood,,,,1
+GABRA1, Childhood absence epilepsy,CAE,Infantile and childhood,,,,1
+CLCN2, Juvenile absence epilepsy,JAE,Juvenile and later,,,,1
+EFHC1, Juvenile absence epilepsy,JAE,Juvenile and later,,,,1
+EFHC1, Juvenile myoclonic epilepsy,JME,Juvenile and later,,,,1
+GABRA1, Juvenile myoclonic epilepsy,JME,Juvenile and later,,,,1
+GABRD, Juvenile myoclonic epilepsy,JME,Juvenile and later,,,,1
+CLCN2, Juvenile myoclonic epilepsy,JME,Juvenile and later,,,,1
+CACNB4, Juvenile myoclonic epilepsy,JME,Juvenile and later,,,,1
+SLC12A5, Idiopathic generalized epilepsy,IGE,Juvenile and later,,,,1
+CASR, Idiopathic generalized epilepsy,IGE,Juvenile and later,,,,1
+SLC2A1, Idiopathic generalized epilepsy,IGE,Juvenile and later,,,,1
+GABRD, Idiopathic generalized epilepsy,IGE,Juvenile and later,,,,1
+CLCN2, Idiopathic generalized epilepsy,IGE,Juvenile and later,,,,1
+CACNA1H, Idiopathic generalized epilepsy,IGE,Juvenile and later,,,,1
+CACNB4, Idiopathic generalized epilepsy,IGE,Juvenile and later,,,,1
+ADRA2B, Familial adult myoclonic epilepsy,FAME,Juvenile and later,,,,1
+CNTN2, Familial adult myoclonic epilepsy,FAME,Juvenile and later,,,,1
+LGI1, Familial temporal lobe epilepsy,FTLE,Juvenile and later,,,,1
+GAL, Familial temporal lobe epilepsy,FTLE,Juvenile and later,,,,1
+CPA6, Familial temporal lobe epilepsy,FTLE,Juvenile and later,,,,1
+KCNC1, Progressive myoclonic epilepsy,PME,Not specific,,,,1
+GOSR2, Progressive myoclonic epilepsy,PME,Not specific,,,,1
+EPM2A, Progressive myoclonic epilepsy,PME,Not specific,,,,1
+CERS1, Progressive myoclonic epilepsy,PME,Not specific,,,,1
+CSTB, Progressive myoclonic epilepsy,PME,Not specific,,,,1
+SCARB2, Progressive myoclonic epilepsy,PME,Not specific,,,,1
+PRDM8, Progressive myoclonic epilepsy,PME,Not specific,,,,1
+KCTD7, Progressive myoclonic epilepsy,PME,Not specific,,,,1
+LMNB2, Progressive myoclonic epilepsy,PME,Not specific,,,,1
+NHLRC1, Progressive myoclonic epilepsy,PME,Not specific,,,,1
+PRICKLE1, Progressive myoclonic epilepsy,PME,Not specific,,,,1
+CHRNA4, Nocturnal frontal lobe epilepsy,NFLE,Not specific,,,,1
+CHRNA2, Nocturnal frontal lobe epilepsy,NFLE,Not specific,,,,1
+KCNT1, Nocturnal frontal lobe epilepsy,NFLE,Not specific,,,,1
+CHRNB2, Nocturnal frontal lobe epilepsy,NFLE,Not specific,,,,1
+DEPDC5, Familial focal epilepsy with variable foci,FFEVF,Not specific,,,,1
+PTCH1, Holoprosencephaly,,,Grey matter,,,2
+OCLN, Band-like calcification with simplified gyration and polymicrogyria,,,Grey matter,,,2
+GPR56, Bilateral frontoparietal polymicrogyria,,,Grey matter,,,2
+GPR56, Bilateral perisylvian polymicrogyria,,,Grey matter,,,2
+FIG4, Bilateral temporooccipital polymicrogyria,,,Grey matter,,,2
+NSDHL, CK syndrome,,,Grey matter,,,2
+PIK3R2, Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome,,,Grey matter,,,2
+TUBA8, Polymicrogyria with optic nerve hypoplasia,,,Grey matter,,,2
+SRPX2," Rolandic epilepsy, speech dyspraxia, and mental retardation",,,Grey matter,,,2
+TUBB2B, Symmetric or asymmetric polymicrogyria,,,Grey matter,,,2
+FLNA, Periventricular heterotopia,,,Grey matter,,,2
+ARFGEF2, Periventricular heterotopia with microcephaly,,,Grey matter,,,2
+ERMARD, Periventricular nodular heterotopia,,,Grey matter,,,2
+DCX, Subcortical laminar heterotopia,,,Grey matter,,,2
+PAFAH1B1, Subcortical laminar heterotopia,,,Grey matter,,,2
+TSC2, Tuberous sclerosis,,,Grey matter,,,2
+TSC1, Tuberous sclerosis,,,Grey matter,,,2
+TUBB2A, Complex cortical dysplasia with other brain malformations,,,Grey matter,,,2
+TUBB3, Complex cortical dysplasia with other brain malformations,,,Grey matter,,,2
+KIF2A, Complex cortical dysplasia with other brain malformations,,,Grey matter,,,2
+TUBG1, Complex cortical dysplasia with other brain malformations,,,Grey matter,,,2
+KIF5C, Complex cortical dysplasia with other brain malformations,,,Grey matter,,,2
+CNTNAP2, Cortical dysplasia-focal epilepsy syndrome,,,Grey matter,,,2
+LAMC3, Occipital cortical malformations,,,Grey matter,,,2
+TSEN54, Pontocerebellar hypoplasia,,,Grey matter,,,2
+EXOSC3, Pontocerebellar hypoplasia,,,Grey matter,,,2
+SEPSECS, Pontocerebellar hypoplasia,,,Grey matter,,,2
+VPS53, Pontocerebellar hypoplasia,,,Grey matter,,,2
+AMPD2, Pontocerebellar hypoplasia,,,Grey matter,,,2
+TSEN2, Pontocerebellar hypoplasia,,,Grey matter,,,2
+TSEN15, Pontocerebellar hypoplasia,,,Grey matter,,,2
+PCLO, Pontocerebellar hypoplasia,,,Grey matter,,,2
+CLP1, Pontocerebellar hypoplasia,,,Grey matter,,,2
+OPHN1," Mental retardation, X-linked, with cerebellar hypoplasia and distinctive facial appearance",,,Grey matter,,,2
+ATN1, Dentatorubro-pallidoluysian atrophy,,,Grey matter,,,2
+SLC20A2, Idiopathic basal ganglia calcification,,,Grey matter,,,2
+XPR1, Idiopathic basal ganglia calcification,,,Grey matter,,,2
+SLC12A6, Agenesis of the corpus callosum with peripheral neuropathy,,,White matter and others,,,2
+PLEKHG2, Leukodystrophy and acquired microcephaly with or without dystonia,,,White matter and others,,,2
+MPDZ, Nonsyndromic hydrocephalus,,,White matter and others,,,2
+CCDC88C, Nonsyndromic hydrocephalus,,,White matter and others,,,2
+COL4A2, Porencephaly,,,White matter and others,,,2
+EMX2, Schizencephaly,,,White matter and others,,,2
+DCX, Lissencephaly,,,General brain malformation,,,2
+LAMB1, Lissencephaly,,,General brain malformation,,,2
+RELN, Lissencephaly,,,General brain malformation,,,2
+ARX, Lissencephaly,,,General brain malformation,,,2
+PAFAH1B1, Lissencephaly,,,General brain malformation,,,2
+TUBA1A, Lissencephaly,,,General brain malformation,,,2
+CDK5, Lissencephaly with cerebellar hypoplasia,,,General brain malformation,,,2
+NDE1, Lissencephaly with microcephaly,,,General brain malformation,,,2
+KATNB1, Lissencephaly with microcephaly,,,General brain malformation,,,2
+SPATA5," Epilepsy, hearing loss, and mental retardation syndrome",,,General brain malformation,,,2
+WDR73, Galloway-Mowat syndrome,,,General brain malformation,,,2
+CASK, Mental retardation and microcephaly with pontine and cerebellar hypoplasia,,,General brain malformation,,,2
+STAMBP, Microcephaly-capillary malformation syndrome,,,General brain malformation,,,2
+IER3IP1," Microcephaly, epilepsy, and diabetes syndrome",,,General brain malformation,,,2
+PNKP," Microcephaly, seizures, and developmental delay",,,General brain malformation,,,2
+TRMT10A," Microcephaly, short stature, and impaired glucose metabolism",,,General brain malformation,,,2
+PPP1R15B," Microcephaly, short stature, and impaired glucose metabolism",,,General brain malformation,,,2
+RTTN," Microcephaly, short stature, and polymicrogyria with seizures",,,General brain malformation,,,2
+KIF11," Microcephaly with or without chorioretino-pathy, lymphedema, or mental retardation",,,General brain malformation,,,2
+MED17," Postnatal progressive microcephaly, seizures, and brain atrophy",,,General brain malformation,,,2
+SASS6, Primary microcephaly,,,General brain malformation,,,2
+ANKLE2, Primary microcephaly,,,General brain malformation,,,2
+CENPE, Primary microcephaly,,,General brain malformation,,,2
+ASPM, Primary microcephaly,,,General brain malformation,,,2
+CENPJ, Primary microcephaly,,,General brain malformation,,,2
+MFSD2A, Primary microcephaly,,,General brain malformation,,,2
+WDR62, Primary microcephaly with or without cortical malformations,,,General brain malformation,,,2
+QARS, Progressive microcephaly with seizures and cerebral and cerebellar atrophy,,,General brain malformation,,,2
+DIAPH1," Seizures, cortical blindness, microcephaly syndrome",,,General brain malformation,,,2
+HERC1," Macrocephaly, dysmorphic facies, and psychomotor retardation",,,General brain malformation,,,2
+STRADA," Polyhydramnios, megalencephaly, and symptomatic epilepsy",,,General brain malformation,,,2
+SYN1, X-linked epilepsy with variable learning disabilities and behavior disorders,,,General brain malformation,,,2
+SNIP1," Psychomotor retardation, epilepsy, and craniofacial dysmorphism",,,General brain malformation,,,2
+KRIT1, Cavernous malform-ations,,,,Circulation disorder,,3
+CCM1, Cavernous malform-ations,,,,Circulation disorder,,3
+CAV3, Long QT syndrome,,,,Circulation disorder,,3
+KCNQ1, Long QT syndrome,,,,Circulation disorder,,3
+CALM2, Long QT syndrome,,,,Circulation disorder,,3
+KCNJ5, Long QT syndrome,,,,Circulation disorder,,3
+RNF213, Moyamoya disease,,,,Circulation disorder,,3
+GUCY1A3, Moyamoya disease,,,,Circulation disorder,,3
+F2," Others (cerebral amyl-oid angiopathy, etc.)",,,,Circulation disorder,,3
+JAM3," Others (cerebral amyl-oid angiopathy, etc.)",,,,Circulation disorder,,3
+COL4A1," Others (cerebral amyl-oid angiopathy, etc.)",,,,Circulation disorder,,3
+PRNP," Others (cerebral amyl-oid angiopathy, etc.)",,,,Circulation disorder,,3
+PROS1," Others (cerebral amyl-oid angiopathy, etc.)",,,,Circulation disorder,,3
+CTC1," Others (cerebral amyl-oid angiopathy, etc.)",,,,Circulation disorder,,3
+PSEN2, Alzheimer disease,,,,Cognitive disorder,,3
+PSEN1, Alzheimer disease,,,,Cognitive disorder,,3
+APP, Alzheimer disease,,,,Cognitive disorder,,3
+UBE3A, Angelman syndrome,,,,Cognitive disorder,,3
+CHD8, Autism,,,,Cognitive disorder,,3
+TMLHE, Autism,,,,Cognitive disorder,,3
+SLC9A9, Autism,,,,Cognitive disorder,,3
+RPL10, Autism,,,,Cognitive disorder,,3
+FMR1, Fragile X syndrome,,,,Cognitive disorder,,3
+MAPT, Frontotemporal dementia,,,,Cognitive disorder,,3
+MED13L, Mental retardation,,,,Cognitive disorder,,3
+METTL23, Mental retardation,,,,Cognitive disorder,,3
+PPP2R5D, Mental retardation,,,,Cognitive disorder,,3
+HERC2, Mental retardation,,,,Cognitive disorder,,3
+PIGG, Mental retardation,,,,Cognitive disorder,,3
+ARID1A, Mental retardation,,,,Cognitive disorder,,3
+SMARCE1, Mental retardation,,,,Cognitive disorder,,3
+ATP6AP2, Mental retardation,,,,Cognitive disorder,,3
+GATAD2B, Mental retardation,,,,Cognitive disorder,,3
+PURA, Mental retardation,,,,Cognitive disorder,,3
+NRXN1, Mental retardation,,,,Cognitive disorder,,3
+ZEB2, Mental retardation,,,,Cognitive disorder,,3
+KPTN, Mental retardation,,,,Cognitive disorder,,3
+MEF2C, Mental retardation,,,,Cognitive disorder,,3
+KIF1A, Mental retardation,,,,Cognitive disorder,,3
+DLG3, Mental retardation,,,,Cognitive disorder,,3
+GRIA3, Mental retardation,,,,Cognitive disorder,,3
+KIF4A, Mental retardation,,,,Cognitive disorder,,3
+MED25, Mental retardation,,,,Cognitive disorder,,3
+DYRK1A, Mental retardation,,,,Cognitive disorder,,3
+SYNGAP1, Mental retardation,,,,Cognitive disorder,,3
+TRAPPC9, Mental retardation,,,,Cognitive disorder,,3
+ANK3, Mental retardation,,,,Cognitive disorder,,3
+CUL4B, Mental retardation,,,,Cognitive disorder,,3
+COL4A3BP, Mental retardation,,,,Cognitive disorder,,3
+FTO, Mental retardation,,,,Cognitive disorder,,3
+SLC9A6, Mental retardation,,,,Cognitive disorder,,3
+GNB1, Mental retardation,,,,Cognitive disorder,,3
+KAT6A, Mental retardation,,,,Cognitive disorder,,3
+SMS, Mental retardation,,,,Cognitive disorder,,3
+ZDHHC15, Mental retardation,,,,Cognitive disorder,,3
+FMN2, Mental retardation,,,,Cognitive disorder,,3
+TAF1, Mental retardation,,,,Cognitive disorder,,3
+KIAA0442, Mental retardation,,,,Cognitive disorder,,3
+ARID1B, Mental retardation,,,,Cognitive disorder,,3
+SMARCA4, Mental retardation,,,,Cognitive disorder,,3
+PUS3, Mental retardation,,,,Cognitive disorder,,3
+GRIK2, Mental retardation,,,,Cognitive disorder,,3
+MYT1L, Mental retardation,,,,Cognitive disorder,,3
+LMAN2L, Mental retardation,,,,Cognitive disorder,,3
+GDI1, Mental retardation,,,,Cognitive disorder,,3
+IL1RAPL1, Mental retardation,,,,Cognitive disorder,,3
+TCF4, Mental retardation,,,,Cognitive disorder,,3
+UBE2A, Mental retardation,,,,Cognitive disorder,,3
+AP1S2, Mental retardation,,,,Cognitive disorder,,3
+HCFC1, Mental retardation,,,,Cognitive disorder,,3
+USP9X, Mental retardation,,,,Cognitive disorder,,3
+PGAP1, Mental retardation,,,,Cognitive disorder,,3
+ASXL1, Mental retardation,,,,Cognitive disorder,,3
+MBD5, Mental retardation,,,,Cognitive disorder,,3
+KDM5C, Mental retardation,,,,Cognitive disorder,,3
+NONO, Mental retardation,,,,Cognitive disorder,,3
+DEAF1, Mental retardation,,,,Cognitive disorder,,3
+CACNG2, Mental retardation,,,,Cognitive disorder,,3
+THOC2, Mental retardation,,,,Cognitive disorder,,3
+SHROOM4, Mental retardation,,,,Cognitive disorder,,3
+PHF6, Mental retardation,,,,Cognitive disorder,,3
+SMARCA2, Mental retardation,,,,Cognitive disorder,,3
+FGD1, Mental retardation,,,,Cognitive disorder,,3
+MECP2, Mental retardation,,,,Cognitive disorder,,3
+MID2, Mental retardation,,,,Cognitive disorder,,3
+SOBP, Mental retardation,,,,Cognitive disorder,,3
+GRIN1, Mental retardation,,,,Cognitive disorder,,3
+MAN1B1, Mental retardation,,,,Cognitive disorder,,3
+PPP2R1A, Mental retardation,,,,Cognitive disorder,,3
+BRAF, Mental retardation,,,,Cognitive disorder,,3
+FTSJ1, Mental retardation,,,,Cognitive disorder,,3
+GPT2, Mental retardation,,,,Cognitive disorder,,3
+SMARCB1, Mental retardation,,,,Cognitive disorder,,3
+IQSEC2, Mental retardation,,,,Cognitive disorder,,3
+SETBP1, Mental retardation,,,,Cognitive disorder,,3
+CLIC2, Mental retardation,,,,Cognitive disorder,,3
+PAK3, Mental retardation,,,,Cognitive disorder,,3
+HIVEP2, Mental retardation,,,,Cognitive disorder,,3
+AUTS2, Mental retardation,,,,Cognitive disorder,,3
+ERCC6, Mental retardation,,,,Cognitive disorder,,3
+RAB39B, Mental retardation,,,,Cognitive disorder,,3
+DYNC1H1, Mental retardation,,,,Cognitive disorder,,3
+SYP, Mental retardation,,,,Cognitive disorder,,3
+BSCL2," Others (McLeod syndrome, progressive encephalopathy, etc.)",,,,Cognitive disorder,,3
+RAI1," Others (McLeod syndrome, progressive encephalopathy, etc.)",,,,Cognitive disorder,,3
+SERPINI1," Others (McLeod syndrome, progressive encephalopathy, etc.)",,,,Cognitive disorder,,3
+XK," Others (McLeod syndrome, progressive encephalopathy, etc.)",,,,Cognitive disorder,,3
+MTOR," Others (McLeod syndrome, progressive encephalopathy, etc.)",,,,Cognitive disorder,,3
+RFT1, Congenital disorder of glycosylation,,,,Developmental disorder (with physical malformation),,3
+ALG9, Congenital disorder of glycosylation,,,,Developmental disorder (with physical malformation),,3
+SLC35A2, Congenital disorder of glycosylation,,,,Developmental disorder (with physical malformation),,3
+MOGS, Congenital disorder of glycosylation,,,,Developmental disorder (with physical malformation),,3
+DOLK, Congenital disorder of glycosylation,,,,Developmental disorder (with physical malformation),,3
+ALG11, Congenital disorder of glycosylation,,,,Developmental disorder (with physical malformation),,3
+DPM2, Congenital disorder of glycosylation,,,,Developmental disorder (with physical malformation),,3
+SLC39A8, Congenital disorder of glycosylation,,,,Developmental disorder (with physical malformation),,3
+DPM1, Congenital disorder of glycosylation,,,,Developmental disorder (with physical malformation),,3
+SSR4, Congenital disorder of glycosylation,,,,Developmental disorder (with physical malformation),,3
+COG7, Congenital disorder of glycosylation,,,,Developmental disorder (with physical malformation),,3
+NGLY1, Congenital disorder of glycosylation,,,,Developmental disorder (with physical malformation),,3
+ALG3, Congenital disorder of glycosylation,,,,Developmental disorder (with physical malformation),,3
+COG4, Congenital disorder of glycosylation,,,,Developmental disorder (with physical malformation),,3
+ALG2, Congenital disorder of glycosylation,,,,Developmental disorder (with physical malformation),,3
+MPDU1, Congenital disorder of glycosylation,,,,Developmental disorder (with physical malformation),,3
+ALG6, Congenital disorder of glycosylation,,,,Developmental disorder (with physical malformation),,3
+ALG12, Congenital disorder of glycosylation,,,,Developmental disorder (with physical malformation),,3
+DPAGT1, Congenital disorder of glycosylation,,,,Developmental disorder (with physical malformation),,3
+STT3A, Congenital disorder of glycosylation,,,,Developmental disorder (with physical malformation),,3
+CAD, Congenital disorder of glycosylation,,,,Developmental disorder (with physical malformation),,3
+COG8, Congenital disorder of glycosylation,,,,Developmental disorder (with physical malformation),,3
+STT3B, Congenital disorder of glycosylation,,,,Developmental disorder (with physical malformation),,3
+COG6, Congenital disorder of glycosylation,,,,Developmental disorder (with physical malformation),,3
+ALG1, Congenital disorder of glycosylation,,,,Developmental disorder (with physical malformation),,3
+AHI1, Joubert syndrome,,,,Developmental disorder (with physical malformation),,3
+CC2D2A, Joubert syndrome,,,,Developmental disorder (with physical malformation),,3
+CSPP1, Joubert syndrome,,,,Developmental disorder (with physical malformation),,3
+OFD1, Joubert syndrome,,,,Developmental disorder (with physical malformation),,3
+BMP4, Microphthalmia,,,,Developmental disorder (with physical malformation),,3
+NAA10, Microphthalmia,,,,Developmental disorder (with physical malformation),,3
+OTX2, Microphthalmia,,,,Developmental disorder (with physical malformation),,3
+RBP4, Microphthalmia,,,,Developmental disorder (with physical malformation),,3
+SOX2, Microphthalmia,,,,Developmental disorder (with physical malformation),,3
+PIGT, Multiple congenital anomalies-hypotonia-seizures syndrome,,,,Developmental disorder (with physical malformation),,3
+PIGN, Multiple congenital anomalies-hypotonia-seizures syndrome,,,,Developmental disorder (with physical malformation),,3
+PIGA, Multiple congenital anomalies-hypotonia-seizures syndrome,,,,Developmental disorder (with physical malformation),,3
+TRAPPC11, Muscular dystrophy,,,,Developmental disorder (with physical malformation),,3
+LAMA2, Muscular dystrophy,,,,Developmental disorder (with physical malformation),,3
+CHKB, Muscular dystrophy,,,,Developmental disorder (with physical malformation),,3
+B3GNT1, Muscular dystrophy-dystroglycanopathy,,,,Developmental disorder (with physical malformation),,3
+FKTN, Muscular dystrophy-dystroglycanopathy,,,,Developmental disorder (with physical malformation),,3
+GMPPB, Muscular dystrophy-dystroglycanopathy,,,,Developmental disorder (with physical malformation),,3
+POMK, Muscular dystrophy-dystroglycanopathy,,,,Developmental disorder (with physical malformation),,3
+B4GAT1, Muscular dystrophy-dystroglycanopathy,,,,Developmental disorder (with physical malformation),,3
+POMT2, Muscular dystrophy-dystroglycanopathy,,,,Developmental disorder (with physical malformation),,3
+POMT1, Muscular dystrophy-dystroglycanopathy,,,,Developmental disorder (with physical malformation),,3
+POMGNT1, Muscular dystrophy-dystroglycanopathy,,,,Developmental disorder (with physical malformation),,3
+NF1, Neurofibromatosis,,,,Developmental disorder (with physical malformation),,3
+ABHD12, Neuropathy,,,,Developmental disorder (with physical malformation),,3
+DNMT1, Neuropathy,,,,Developmental disorder (with physical malformation),,3
+SPTLC2, Neuropathy,,,,Developmental disorder (with physical malformation),,3
+FOXG1, Rett syndrome,,,,Developmental disorder (with physical malformation),,3
+ASAH1, Spinal muscular atrophy with progressive myo-clonic epilepsy,,,,Developmental disorder (with physical malformation),,3
+GNAQ, Sturge–Weber syndrome,,,,Developmental disorder (with physical malformation),,3
+PEX3, Zellweger syndrome,,,,Developmental disorder (with physical malformation),,3
+PEX19, Zellweger syndrome,,,,Developmental disorder (with physical malformation),,3
+PEX14, Zellweger syndrome,,,,Developmental disorder (with physical malformation),,3
+PEX13, Zellweger syndrome,,,,Developmental disorder (with physical malformation),,3
+PEX2, Zellweger syndrome,,,,Developmental disorder (with physical malformation),,3
+NHS," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+SLC33A1," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+ZSWIM6," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+AMER1," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+ACTG1," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+DHCR24," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+AGPS," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+GPX4," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+TELO2," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+MAPRE2," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+SMC1A," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+FAM111A," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+GPSM2," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+FGFR2," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+KCNJ6," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+PUF60," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+CHRDL1," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+EBP," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+ROGDI," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+KMT2A," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+ACTB," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+HNF1B," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+NDUFB11," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+CEP290," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+SHANK3," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+CRB2," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+FAT4," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+NDN," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+AP3D1," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+CCDC88A," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+DXS423E," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+DNMT3A," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+KCNH1," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+LRP2," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+SNRPN," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+BRAT1," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+EPG5," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+ALDH18A1," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+MKS1," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+C19orf61," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+SOX5," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+PTEN," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+RAB18," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+NOTCH1," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+RAPSN," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+NRAS," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+PQBP1," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+GNPAT," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+CLPP," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+PARN," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+DKC1," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+RBM10," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+CRLF1," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+MBTPS2," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+ARNT2," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+MSX2," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+PEX5," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+DOCK6," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+CHN1," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+NANS," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+EFTUD2," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+NIN," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+POGZ," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+GATA6," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+MAGEL2," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+SLC35A3," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+KRAS," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+ATP6V0A2," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+COL18A1," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+EXT2," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+ACVR1," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+NSD1," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+SETD2," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+MAF," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+C12orf57," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+MARCA2," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+XPNPEP3," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+BCAP31," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+ADNP," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+CEP164," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+PIGL," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+ZC4H2," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+SATB2," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+EHMT1," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+FGFR3," Others (craniosynost-osis, thanatophoric dysplasia, etc.)",,,,Developmental disorder (with physical malformation),,3
+TICAM1, Herpes simplex ence-phalitis,,,,Inflammation and immune disorder,,3
+TRAF3, Herpes simplex ence-phalitis,,,,Inflammation and immune disorder,,3
+IRF3, Herpes simplex ence-phalitis,,,,Inflammation and immune disorder,,3
+STAT1, Immunodeficiency,,,,Inflammation and immune disorder,,3
+BCL10, Immunodeficiency,,,,Inflammation and immune disorder,,3
+ORAI1, Immunodeficiency,,,,Inflammation and immune disorder,,3
+ISG15, Immunodeficiency,,,,Inflammation and immune disorder,,3
+PRKDC, Immunodeficiency,,,,Inflammation and immune disorder,,3
+CORO1A, Immunodeficiency,,,,Inflammation and immune disorder,,3
+PGM3, Immunodeficiency,,,,Inflammation and immune disorder,,3
+ATP6AP1, Immunodeficiency,,,,Inflammation and immune disorder,,3
+IFNAR2, Immunodeficiency,,,,Inflammation and immune disorder,,3
+STAT2, Immunodeficiency,,,,Inflammation and immune disorder,,3
+IFIH1, Inflammatory disorder,,,,Inflammation and immune disorder,,3
+PSMB8, Inflammatory disorder,,,,Inflammation and immune disorder,,3
+CD59, Inflammatory disorder,,,,Inflammation and immune disorder,,3
+NOD2, Inflammatory disorder,,,,Inflammation and immune disorder,,3
+DOCK8," Others (candidiasis, neutropenia, etc.)",,,,Inflammation and immune disorder,,3
+HAX1," Others (candidiasis, neutropenia, etc.)",,,,Inflammation and immune disorder,,3
+CPT2," Others (candidiasis, neutropenia, etc.)",,,,Inflammation and immune disorder,,3
+FADD," Others (candidiasis, neutropenia, etc.)",,,,Inflammation and immune disorder,,3
+RANBP2," Others (candidiasis, neutropenia, etc.)",,,,Inflammation and immune disorder,,3
+CARD9," Others (candidiasis, neutropenia, etc.)",,,,Inflammation and immune disorder,,3
+ACSF3, Aciduria,,,,Inflammation and immune disorder,,3
+CLPB, Aciduria,,,,Inflammation and immune disorder,,3
+CTH, Aciduria,,,,Inflammation and immune disorder,,3
+D2HGDH, Aciduria,,,,Inflammation and immune disorder,,3
+MMAA, Aciduria,,,,Inflammation and immune disorder,,3
+MMADHC, Aciduria,,,,Inflammation and immune disorder,,3
+AUH, Aciduria,,,,Inflammation and immune disorder,,3
+SLC25A1, Aciduria,,,,Inflammation and immune disorder,,3
+ACADSB, Aciduria,,,,Inflammation and immune disorder,,3
+MTR, Aciduria,,,,Inflammation and immune disorder,,3
+DPYS, Aciduria,,,,Inflammation and immune disorder,,3
+IDH2, Aciduria,,,,Inflammation and immune disorder,,3
+C2orf25, Aciduria,,,,Inflammation and immune disorder,,3
+GLYCTK, Aciduria,,,,Inflammation and immune disorder,,3
+DHTKD1, Aciduria,,,,Inflammation and immune disorder,,3
+QDPR, Amino acid metabolic disturbance,,,,Inflammation and immune disorder,,3
+ALDH4A1, Amino acid metabolic disturbance,,,,Inflammation and immune disorder,,3
+ARG1, Amino acid metabolic disturbance,,,,Inflammation and immune disorder,,3
+AMT, Amino acid metabolic disturbance,,,,Inflammation and immune disorder,,3
+LIAS, Amino acid metabolic disturbance,,,,Inflammation and immune disorder,,3
+GLUL, Amino acid metabolic disturbance,,,,Inflammation and immune disorder,,3
+GLDC, Amino acid metabolic disturbance,,,,Inflammation and immune disorder,,3
+GCH1, Amino acid metabolic disturbance,,,,Inflammation and immune disorder,,3
+SLC25A15, Amino acid metabolic disturbance,,,,Inflammation and immune disorder,,3
+AASS, Amino acid metabolic disturbance,,,,Inflammation and immune disorder,,3
+PRODH, Amino acid metabolic disturbance,,,,Inflammation and immune disorder,,3
+COQ6, Coenzyme Q10 deficiency,,,,Inflammation and immune disorder,,3
+COQ2, Coenzyme Q10 deficiency,,,,Inflammation and immune disorder,,3
+COQ9, Coenzyme Q10 deficiency,,,,Inflammation and immune disorder,,3
+COQ4, Coenzyme Q10 deficiency,,,,Inflammation and immune disorder,,3
+COQ8A, Coenzyme Q10 deficiency,,,,Inflammation and immune disorder,,3
+PDSS2, Coenzyme Q10 deficiency,,,,Inflammation and immune disorder,,3
+MTFMT, Combined oxidative phosphorylation deficiency,,,,Inflammation and immune disorder,,3
+AIFM1, Combined oxidative phosphorylation deficiency,,,,Inflammation and immune disorder,,3
+NARS2, Combined oxidative phosphorylation deficiency,,,,Inflammation and immune disorder,,3
+MRPS22, Combined oxidative phosphorylation deficiency,,,,Inflammation and immune disorder,,3
+RMND1, Combined oxidative phosphorylation deficiency,,,,Inflammation and immune disorder,,3
+CARS2, Combined oxidative phosphorylation deficiency,,,,Inflammation and immune disorder,,3
+VARS2, Combined oxidative phosphorylation deficiency,,,,Inflammation and immune disorder,,3
+FARS2, Combined oxidative phosphorylation deficiency,,,,Inflammation and immune disorder,,3
+MTO1, Combined oxidative phosphorylation deficiency,,,,Inflammation and immune disorder,,3
+EARS2, Combined oxidative phosphorylation deficiency,,,,Inflammation and immune disorder,,3
+GTPBP3, Combined oxidative phosphorylation deficiency,,,,Inflammation and immune disorder,,3
+TXN2, Combined oxidative phosphorylation deficiency,,,,Inflammation and immune disorder,,3
+GFM1, Combined oxidative phosphorylation deficiency,,,,Inflammation and immune disorder,,3
+ABCC8, Diabetes mellitus,,,,Inflammation and immune disorder,,3
+KCNJ11, Diabetes mellitus,,,,Inflammation and immune disorder,,3
+ZFP57, Diabetes mellitus,,,,Inflammation and immune disorder,,3
+POMC, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+DHFR, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+OPLAH, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+HSD17B10, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+PGK1, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+MTHFR, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+HADHA, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+PSAT1, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+MAOA, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+ATIC, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+SCO2, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+ATP1A2, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+PHGDH, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+ASNS, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+DLD, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+HIBCH, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+ACADS, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+ADK, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+NADK2, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+OTC, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+MCCC1, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+MLYCD, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+PEX7, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+DPYD, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+PDHA1, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+NAT8L, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+PDX1, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+BCKDK, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+ABAT, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+SLC25A20, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+NDP, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+PC, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+PSPH, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+PDHX, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+RYR1, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+ACY1, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+PSAP, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+UPB1, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+HMGCS2, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+ADSL, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+GK, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+BCKDHA, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+MCCC2, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+FAR1, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+ACOX1, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+CPS1, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+AMACR, Enzymatic deficiency,,,,Inflammation and immune disorder,,3
+SLC46A1, Folate malabsorption,,,,Inflammation and immune disorder,,3
+FOLR1, Folate transport deficiency,,,,Inflammation and immune disorder,,3
+AGL, Glycogen storage disease,,,,Inflammation and immune disorder,,3
+GYS1, Glycogen storage disease,,,,Inflammation and immune disorder,,3
+THRB, Hormone metabolism dysfunction,,,,Inflammation and immune disorder,,3
+GLI2, Hormone metabolism dysfunction,,,,Inflammation and immune disorder,,3
+MCM8, Hormone metabolism dysfunction,,,,Inflammation and immune disorder,,3
+HESX1, Hormone metabolism dysfunction,,,,Inflammation and immune disorder,,3
+MRAP, Hormone metabolism dysfunction,,,,Inflammation and immune disorder,,3
+FGF8, Hormone metabolism dysfunction,,,,Inflammation and immune disorder,,3
+CACNA1D, Hormone metabolism dysfunction,,,,Inflammation and immune disorder,,3
+PROK2, Hormone metabolism dysfunction,,,,Inflammation and immune disorder,,3
+AVPR2, Hormone metabolism dysfunction,,,,Inflammation and immune disorder,,3
+ANOS1, Hormone metabolism dysfunction,,,,Inflammation and immune disorder,,3
+PGAP2, Hyperphosphatasia with mental retardation syndrome,,,,Inflammation and immune disorder,,3
+PIGV, Hyperphosphatasia with mental retardation syndrome,,,,Inflammation and immune disorder,,3
+PGAP3, Hyperphosphatasia with mental retardation syndrome,,,,Inflammation and immune disorder,,3
+PIGY, Hyperphosphatasia with mental retardation syndrome,,,,Inflammation and immune disorder,,3
+PIGO, Hyperphosphatasia with mental retardation syndrome,,,,Inflammation and immune disorder,,3
+PIGW, Hyperphosphatasia with mental retardation syndrome,,,,Inflammation and immune disorder,,3
+GNA11, Hypocalcemia,,,,Inflammation and immune disorder,,3
+GCK, Hypoglycemia,,,,Inflammation and immune disorder,,3
+INSR, Hypoglycemia,,,,Inflammation and immune disorder,,3
+AKT2, Hypoglycemia,,,,Inflammation and immune disorder,,3
+EGF, Hypomagnesemia,,,,Inflammation and immune disorder,,3
+TRPM6, Hypomagnesemia,,,,Inflammation and immune disorder,,3
+CNNM2, Hypomagnesemia,,,,Inflammation and immune disorder,,3
+PTH, Hypoparathyroidism,,,,Inflammation and immune disorder,,3
+NDUFA2, Leigh syndrome,,,,Inflammation and immune disorder,,3
+NDUFS8, Leigh syndrome,,,,Inflammation and immune disorder,,3
+NDUFS4, Leigh syndrome,,,,Inflammation and immune disorder,,3
+NDUFAF6, Leigh syndrome,,,,Inflammation and immune disorder,,3
+LRPPRC, Leigh syndrome,,,,Inflammation and immune disorder,,3
+NPC1, Lipid storage disorder,,,,Inflammation and immune disorder,,3
+NPC2, Lipid storage disorder,,,,Inflammation and immune disorder,,3
+ATP7A, Menkes disease,,,,Inflammation and immune disorder,,3
+MPC1," Mitochondrial disease (progressive external ophthalmoplegia with mitochondrial DNA deletions, etc.)",,,,Inflammation and immune disorder,,3
+POLG2," Mitochondrial disease (progressive external ophthalmoplegia with mitochondrial DNA deletions, etc.)",,,,Inflammation and immune disorder,,3
+COX6B1," Mitochondrial disease (progressive external ophthalmoplegia with mitochondrial DNA deletions, etc.)",,,,Inflammation and immune disorder,,3
+PET100," Mitochondrial disease (progressive external ophthalmoplegia with mitochondrial DNA deletions, etc.)",,,,Inflammation and immune disorder,,3
+BCS1L," Mitochondrial disease (progressive external ophthalmoplegia with mitochondrial DNA deletions, etc.)",,,,Inflammation and immune disorder,,3
+COX10," Mitochondrial disease (progressive external ophthalmoplegia with mitochondrial DNA deletions, etc.)",,,,Inflammation and immune disorder,,3
+BOLA3," Mitochondrial disease (progressive external ophthalmoplegia with mitochondrial DNA deletions, etc.)",,,,Inflammation and immune disorder,,3
+C10orf2," Mitochondrial disease (progressive external ophthalmoplegia with mitochondrial DNA deletions, etc.)",,,,Inflammation and immune disorder,,3
+BRP44L," Mitochondrial disease (progressive external ophthalmoplegia with mitochondrial DNA deletions, etc.)",,,,Inflammation and immune disorder,,3
+ATP5A1," Mitochondrial disease (progressive external ophthalmoplegia with mitochondrial DNA deletions, etc.)",,,,Inflammation and immune disorder,,3
+NDUFAF3," Mitochondrial disease (progressive external ophthalmoplegia with mitochondrial DNA deletions, etc.)",,,,Inflammation and immune disorder,,3
+APOPT1," Mitochondrial disease (progressive external ophthalmoplegia with mitochondrial DNA deletions, etc.)",,,,Inflammation and immune disorder,,3
+RTN4IP1," Mitochondrial disease (progressive external ophthalmoplegia with mitochondrial DNA deletions, etc.)",,,,Inflammation and immune disorder,,3
+COX8A," Mitochondrial disease (progressive external ophthalmoplegia with mitochondrial DNA deletions, etc.)",,,,Inflammation and immune disorder,,3
+NDUFV1," Mitochondrial disease (progressive external ophthalmoplegia with mitochondrial DNA deletions, etc.)",,,,Inflammation and immune disorder,,3
+NUBPL," Mitochondrial disease (progressive external ophthalmoplegia with mitochondrial DNA deletions, etc.)",,,,Inflammation and immune disorder,,3
+ATPAF2," Mitochondrial disease (progressive external ophthalmoplegia with mitochondrial DNA deletions, etc.)",,,,Inflammation and immune disorder,,3
+SDHD," Mitochondrial disease (progressive external ophthalmoplegia with mitochondrial DNA deletions, etc.)",,,,Inflammation and immune disorder,,3
+FBXL4," Mitochondrial disease (progressive external ophthalmoplegia with mitochondrial DNA deletions, etc.)",,,,Inflammation and immune disorder,,3
+FASTKD2," Mitochondrial disease (progressive external ophthalmoplegia with mitochondrial DNA deletions, etc.)",,,,Inflammation and immune disorder,,3
+POLG," Mitochondrial disease (progressive external ophthalmoplegia with mitochondrial DNA deletions, etc.)",,,,Inflammation and immune disorder,,3
+SUCLA2," Mitochondrial disease (progressive external ophthalmoplegia with mitochondrial DNA deletions, etc.)",,,,Inflammation and immune disorder,,3
+PNPLA8," Mitochondrial disease (progressive external ophthalmoplegia with mitochondrial DNA deletions, etc.)",,,,Inflammation and immune disorder,,3
+UQCC2," Mitochondrial disease (progressive external ophthalmoplegia with mitochondrial DNA deletions, etc.)",,,,Inflammation and immune disorder,,3
+FOXRED1," Mitochondrial disease (progressive external ophthalmoplegia with mitochondrial DNA deletions, etc.)",,,,Inflammation and immune disorder,,3
+NDUFA1," Mitochondrial disease (progressive external ophthalmoplegia with mitochondrial DNA deletions, etc.)",,,,Inflammation and immune disorder,,3
+RRM2B," Mitochondrial disease (progressive external ophthalmoplegia with mitochondrial DNA deletions, etc.)",,,,Inflammation and immune disorder,,3
+TMEM70," Mitochondrial disease (progressive external ophthalmoplegia with mitochondrial DNA deletions, etc.)",,,,Inflammation and immune disorder,,3
+HGSNAT, Mucopolysaccharidosis,,,,Inflammation and immune disorder,,3
+IDS, Mucopolysaccharidosis,,,,Inflammation and immune disorder,,3
+CLN5, Neuronal ceroid lipofuscinosis,,,,Inflammation and immune disorder,,3
+CLN6, Neuronal ceroid lipofuscinosis,,,,Inflammation and immune disorder,,3
+CTSF, Neuronal ceroid lipofuscinosis,,,,Inflammation and immune disorder,,3
+GRN, Neuronal ceroid lipofuscinosis,,,,Inflammation and immune disorder,,3
+PPT1, Neuronal ceroid lipofuscinosis,,,,Inflammation and immune disorder,,3
+MFSD8, Neuronal ceroid lipofuscinosis,,,,Inflammation and immune disorder,,3
+CLN8, Neuronal ceroid lipofuscinosis,,,,Inflammation and immune disorder,,3
+CTSD, Neuronal ceroid lipofuscinosis,,,,Inflammation and immune disorder,,3
+CLN3, Neuronal ceroid lipofuscinosis,,,,Inflammation and immune disorder,,3
+DNAJC5, Neuronal ceroid lipofuscinosis,,,,Inflammation and immune disorder,,3
+TPP1, Neuronal ceroid lipofuscinosis,,,,Inflammation and immune disorder,,3
+TPK1, Thiamine metabolism dysfunction syndrome,,,,Inflammation and immune disorder,,3
+SLC19A3, Thiamine metabolism dysfunction syndrome,,,,Inflammation and immune disorder,,3
+CYP27B1, Vitamin D-dependent rickets,,,,Inflammation and immune disorder,,3
+LARS2," Others (brain iron accumulation, Salla disease, etc.)",,,,Inflammation and immune disorder,,3
+PIGM," Others (brain iron accumulation, Salla disease, etc.)",,,,Inflammation and immune disorder,,3
+ETHE1," Others (brain iron accumulation, Salla disease, etc.)",,,,Inflammation and immune disorder,,3
+CYB5R3," Others (brain iron accumulation, Salla disease, etc.)",,,,Inflammation and immune disorder,,3
+GBA," Others (brain iron accumulation, Salla disease, etc.)",,,,Inflammation and immune disorder,,3
+HADHB," Others (brain iron accumulation, Salla disease, etc.)",,,,Inflammation and immune disorder,,3
+WDR45," Others (brain iron accumulation, Salla disease, etc.)",,,,Inflammation and immune disorder,,3
+ANKH," Others (brain iron accumulation, Salla disease, etc.)",,,,Inflammation and immune disorder,,3
+TANGO2," Others (brain iron accumulation, Salla disease, etc.)",,,,Inflammation and immune disorder,,3
+HEXA," Others (brain iron accumulation, Salla disease, etc.)",,,,Inflammation and immune disorder,,3
+COL3A1," Others (brain iron accumulation, Salla disease, etc.)",,,,Inflammation and immune disorder,,3
+SLC17A5," Others (brain iron accumulation, Salla disease, etc.)",,,,Inflammation and immune disorder,,3
+FTL," Others (brain iron accumulation, Salla disease, etc.)",,,,Inflammation and immune disorder,,3
+SLC16A1," Others (brain iron accumulation, Salla disease, etc.)",,,,Inflammation and immune disorder,,3
+DNM1L," Others (brain iron accumulation, Salla disease, etc.)",,,,Inflammation and immune disorder,,3
+KCNJ10," Others (brain iron accumulation, Salla disease, etc.)",,,,Inflammation and immune disorder,,3
+GPHN," Others (brain iron accumulation, Salla disease, etc.)",,,,Inflammation and immune disorder,,3
+ARHGDIA," Others (brain iron accumulation, Salla disease, etc.)",,,,Inflammation and immune disorder,,3
+TTR," Others (brain iron accumulation, Salla disease, etc.)",,,,Inflammation and immune disorder,,3
+ECM1," Others (brain iron accumulation, Salla disease, etc.)",,,,Inflammation and immune disorder,,3
+HSD17B4," Others (brain iron accumulation, Salla disease, etc.)",,,,Inflammation and immune disorder,,3
+ETFDH," Others (brain iron accumulation, Salla disease, etc.)",,,,Inflammation and immune disorder,,3
+PLA2G6," Others (brain iron accumulation, Salla disease, etc.)",,,,Inflammation and immune disorder,,3
+MOCS2," Others (brain iron accumulation, Salla disease, etc.)",,,,Inflammation and immune disorder,,3
+SLC6A8," Others (brain iron accumulation, Salla disease, etc.)",,,,Inflammation and immune disorder,,3
+GAMT," Others (brain iron accumulation, Salla disease, etc.)",,,,Inflammation and immune disorder,,3
+CAMTA1, Cerebellar ataxia,,,,Movement disorder,,3
+SLC9A1, Cerebellar ataxia,,,,Movement disorder,,3
+PDE10A, Dyskinesia,,,,Movement disorder,,3
+TBCK, Dystonia,,,,Movement disorder,,3
+CRYAB, Dystonia,,,,Movement disorder,,3
+SPR, Dystonia,,,,Movement disorder,,3
+ACO2, Dystonia,,,,Movement disorder,,3
+GLRA1, Dystonia,,,,Movement disorder,,3
+UNC80, Dystonia,,,,Movement disorder,,3
+SGCE, Dystonia,,,,Movement disorder,,3
+NALCN, Dystonia,,,,Movement disorder,,3
+SLC1A3, Episodic ataxia,,,,Movement disorder,,3
+KCNA1, Episodic ataxia,,,,Movement disorder,,3
+ATP1A3, Episodic hemiplegia,,,,Movement disorder,,3
+HTT, Huntington disease,,,,Movement disorder,,3
+SYNJ1, Parkinson disease,,,,Movement disorder,,3
+LRRK2, Parkinson disease,,,,Movement disorder,,3
+DNAJC6, Parkinson disease,,,,Movement disorder,,3
+AFG3L2, Spastic ataxia,,,,Movement disorder,,3
+SACS, Spastic ataxia,,,,Movement disorder,,3
+ERLIN2, Spastic paraplegia,,,,Movement disorder,,3
+HACE1, Spastic paraplegia,,,,Movement disorder,,3
+AP4E1, Spastic paraplegia,,,,Movement disorder,,3
+ZFYVE26, Spastic paraplegia,,,,Movement disorder,,3
+PLP1, Spastic paraplegia,,,,Movement disorder,,3
+AP4S1, Spastic paraplegia,,,,Movement disorder,,3
+TECPR2, Spastic paraplegia,,,,Movement disorder,,3
+GJC2, Spastic paraplegia,,,,Movement disorder,,3
+AP4B1, Spastic paraplegia,,,,Movement disorder,,3
+NIPA1, Spastic paraplegia,,,,Movement disorder,,3
+ELOVL4, Spastic quadriplegia,,,,Movement disorder,,3
+ADD3, Spastic quadriplegia,,,,Movement disorder,,3
+GAD1, Spastic quadriplegia,,,,Movement disorder,,3
+SLC1A4, Spastic quadriplegia,,,,Movement disorder,,3
+SNX14, Spinocerebellar ataxia,,,,Movement disorder,,3
+ITPR1, Spinocerebellar ataxia,,,,Movement disorder,,3
+SYT14, Spinocerebellar ataxia,,,,Movement disorder,,3
+ANO10, Spinocerebellar ataxia,,,,Movement disorder,,3
+TBP, Spinocerebellar ataxia,,,,Movement disorder,,3
+RUBCN, Spinocerebellar ataxia,,,,Movement disorder,,3
+TDP1, Spinocerebellar ataxia,,,,Movement disorder,,3
+ATXN10, Spinocerebellar ataxia,,,,Movement disorder,,3
+TDP2, Spinocerebellar ataxia,,,,Movement disorder,,3
+GRM1, Spinocerebellar ataxia,,,,Movement disorder,,3
+GFAP, Alexander disease,,,,Myelinating disorder,,3
+GALC, Krabbe disease,,,,Myelinating disorder,,3
+TUBB4A, Leukodystrophy,,,,Myelinating disorder,,3
+VPS11, Leukodystrophy,,,,Myelinating disorder,,3
+HSPD1, Leukodystrophy,,,,Myelinating disorder,,3
+ARSA, Leukodystrophy,,,,Myelinating disorder,,3
+POLR3B, Leukodystrophy,,,,Myelinating disorder,,3
+AIMP1, Leukodystrophy,,,,Myelinating disorder,,3
+EIF2B1, Leukoencephalopathy,,,,Myelinating disorder,,3
+CSF1R, Leukoencephalopathy,,,,Myelinating disorder,,3
+DARS2, Leukoencephalopathy,,,,Myelinating disorder,,3
+MLC1, Leukoencephalopathy,,,,Myelinating disorder,,3
+HEPACAM, Leukoencephalopathy,,,,Myelinating disorder,,3
+RNASET2, Leukoencephalopathy,,,,Myelinating disorder,,3
+BRCA2, Glioblastoma,,,,Neoplastic disorder,,3
+SCN3A, Sodium channel,,,,,Ion channel,4
+SCN4A, Sodium channel,,,,,Ion channel,4
+SCN5A, Sodium channel,,,,,Ion channel,4
+KCND3, Potassium channel,,,,,Ion channel,4
+KCNC3, Potassium channel,,,,,Ion channel,4
+KCNH2, Potassium channel,,,,,Ion channel,4
+KCNMB3, Potassium channel,,,,,Ion channel,4
+KCNAB1, Potassium channel,,,,,Ion channel,4
+KCND2, Potassium channel,,,,,Ion channel,4
+KCNH5, Potassium channel,,,,,Ion channel,4
+KCNE1, Potassium channel,,,,,Ion channel,4
+KCTD3, Potassium channel,,,,,Ion channel,4
+KCNJ2, Potassium channel,,,,,Ion channel,4
+KCNAB2, Potassium channel,,,,,Ion channel,4
+KCNN3, Potassium channel,,,,,Ion channel,4
+KCNV2, Potassium channel,,,,,Ion channel,4
+HCN4, HCN channel,,,,,Ion channel,4
+HCN2, HCN channel,,,,,Ion channel,4
+CACNA1G, Calcium channel,,,,,Ion channel,4
+CACNA2D2, Calcium channel,,,,,Ion channel,4
+RYR3, Calcium channel,,,,,Ion channel,4
+TRPM1, Calcium channel,,,,,Ion channel,4
+CACNA2D1, Calcium channel,,,,,Ion channel,4
+CLCN6, Chloride channel,,,,,Ion channel,4
+CLCN4, Chloride channel,,,,,Ion channel,4
+GABRB2, GABA-A receptor,,,,,Ion channel,4
+GABRA6, GABA-A receptor,,,,,Ion channel,4
+GRINA, NMDA receptor,,,,,Ion channel,4
+GRIK1, NMDA receptor,,,,,Ion channel,4
+CHRFAM7A, Acetylcholine receptor,,,,,Ion channel,4
+CHRNA7, Acetylcholine receptor,,,,,Ion channel,4
+CHRNB3, Acetylcholine receptor,,,,,Ion channel,4
+PTPN23, Enzyme,,,,,Enzyme/Enzyme modulator,4
+KARS, Enzyme,,,,,Enzyme/Enzyme modulator,4
+MCM9, Enzyme,,,,,Enzyme/Enzyme modulator,4
+WHSC1, Enzyme,,,,,Enzyme/Enzyme modulator,4
+ND1, Enzyme,,,,,Enzyme/Enzyme modulator,4
+ACMSD, Enzyme,,,,,Enzyme/Enzyme modulator,4
+DNM3, Enzyme,,,,,Enzyme/Enzyme modulator,4
+NEDD4, Enzyme,,,,,Enzyme/Enzyme modulator,4
+GBE1, Enzyme,,,,,Enzyme/Enzyme modulator,4
+HECW2, Enzyme,,,,,Enzyme/Enzyme modulator,4
+NEU1, Enzyme,,,,,Enzyme/Enzyme modulator,4
+CBL, Enzyme,,,,,Enzyme/Enzyme modulator,4
+PARK2, Enzyme,,,,,Enzyme/Enzyme modulator,4
+MRI1, Enzyme,,,,,Enzyme/Enzyme modulator,4
+COX1, Enzyme,,,,,Enzyme/Enzyme modulator,4
+CHD1L, Enzyme,,,,,Enzyme/Enzyme modulator,4
+TRMT44, Enzyme,,,,,Enzyme/Enzyme modulator,4
+FASN, Enzyme,,,,,Enzyme/Enzyme modulator,4
+PRKX, Enzyme,,,,,Enzyme/Enzyme modulator,4
+UBR5, Enzyme,,,,,Enzyme/Enzyme modulator,4
+ZMYND8, Enzyme,,,,,Enzyme/Enzyme modulator,4
+MAPK10, Enzyme,,,,,Enzyme/Enzyme modulator,4
+DGKD, Enzyme,,,,,Enzyme/Enzyme modulator,4
+ST8SIA2, Enzyme,,,,,Enzyme/Enzyme modulator,4
+MAN2A2, Enzyme,,,,,Enzyme/Enzyme modulator,4
+MPP7, Enzyme,,,,,Enzyme/Enzyme modulator,4
+PNPT1, Enzyme,,,,,Enzyme/Enzyme modulator,4
+TK2, Enzyme,,,,,Enzyme/Enzyme modulator,4
+FBXO28, Enzyme,,,,,Enzyme/Enzyme modulator,4
+CHD3, Enzyme,,,,,Enzyme/Enzyme modulator,4
+ADAM22, Enzyme,,,,,Enzyme/Enzyme modulator,4
+AKT3, Enzyme,,,,,Enzyme/Enzyme modulator,4
+INPP4A, Enzyme,,,,,Enzyme/Enzyme modulator,4
+MAGI2, Enzyme,,,,,Enzyme/Enzyme modulator,4
+COX3, Enzyme,,,,,Enzyme/Enzyme modulator,4
+CP, Enzyme,,,,,Enzyme/Enzyme modulator,4
+SGK223, Enzyme,,,,,Enzyme/Enzyme modulator,4
+CYP26C1, Enzyme,,,,,Enzyme/Enzyme modulator,4
+KIAA1456, Enzyme,,,,,Enzyme/Enzyme modulator,4
+MANBA, Enzyme,,,,,Enzyme/Enzyme modulator,4
+HS2ST1, Enzyme,,,,,Enzyme/Enzyme modulator,4
+PHF8, Enzyme,,,,,Enzyme/Enzyme modulator,4
+HUWE1, Enzyme,,,,,Enzyme/Enzyme modulator,4
+CHD4, Enzyme,,,,,Enzyme/Enzyme modulator,4
+STK11, Enzyme,,,,,Enzyme/Enzyme modulator,4
+TNK2, Enzyme,,,,,Enzyme/Enzyme modulator,4
+ND5, Enzyme,,,,,Enzyme/Enzyme modulator,4
+ME2, Enzyme,,,,,Enzyme/Enzyme modulator,4
+MTMR11, Enzyme,,,,,Enzyme/Enzyme modulator,4
+ND4, Enzyme,,,,,Enzyme/Enzyme modulator,4
+PIGQ, Enzyme,,,,,Enzyme/Enzyme modulator,4
+KDM6A, Enzyme,,,,,Enzyme/Enzyme modulator,4
+HCK, Enzyme,,,,,Enzyme/Enzyme modulator,4
+OPA1, Enzyme,,,,,Enzyme/Enzyme modulator,4
+NEDD4L, Enzyme,,,,,Enzyme/Enzyme modulator,4
+TRIM8, Enzyme,,,,,Enzyme/Enzyme modulator,4
+CSNK1G1, Enzyme,,,,,Enzyme/Enzyme modulator,4
+ACOT7, Enzyme,,,,,Enzyme/Enzyme modulator,4
+HDAC4, Enzyme,,,,,Enzyme/Enzyme modulator,4
+FSTL5, Enzyme modulator,,,,,Enzyme/Enzyme modulator,4
+NOL3, Enzyme modulator,,,,,Enzyme/Enzyme modulator,4
+PPP1R3C, Enzyme modulator,,,,,Enzyme/Enzyme modulator,4
+RAPGEF6, Enzyme modulator,,,,,Enzyme/Enzyme modulator,4
+NPRL3, Enzyme modulator,,,,,Enzyme/Enzyme modulator,4
+ELMO1, Enzyme modulator,,,,,Enzyme/Enzyme modulator,4
+SRGAP2, Enzyme modulator,,,,,Enzyme/Enzyme modulator,4
+RANGAP1, Enzyme modulator,,,,,Enzyme/Enzyme modulator,4
+FARP2, Enzyme modulator,,,,,Enzyme/Enzyme modulator,4
+NPRL2, Enzyme modulator,,,,,Enzyme/Enzyme modulator,4
+ARHGEF15, Enzyme modulator,,,,,Enzyme/Enzyme modulator,4
+SLC7A11, Transporter,,,,,Transporter/receptor,4
+ATP6V0C, Transporter,,,,,Transporter/receptor,4
+ATP6, Transporter,,,,,Transporter/receptor,4
+ATP8, Transporter,,,,,Transporter/receptor,4
+SLC26A1, Transporter,,,,,Transporter/receptor,4
+NIPA2, Transporter,,,,,Transporter/receptor,4
+AAAS, Transporter,,,,,Transporter/receptor,4
+SLCO1B7, Transporter,,,,,Transporter/receptor,4
+SLC25A2, Transporter,,,,,Transporter/receptor,4
+SLC6A4, Transporter,,,,,Transporter/receptor,4
+SLC6A3, Transporter,,,,,Transporter/receptor,4
+SLC30A3, Transporter,,,,,Transporter/receptor,4
+TAP1, Transporter,,,,,Transporter/receptor,4
+SLC8A1, Transporter,,,,,Transporter/receptor,4
+OCA2, Transporter,,,,,Transporter/receptor,4
+ATP13A2, Transporter,,,,,Transporter/receptor,4
+SLC4A3, Transporter,,,,,Transporter/receptor,4
+ATP8A2, Transporter,,,,,Transporter/receptor,4
+SLC4A10, Transporter,,,,,Transporter/receptor,4
+SLC1A1, Transporter,,,,,Transporter/receptor,4
+HTR1A, Receptor,,,,,Transporter/receptor,4
+IL27RA, Receptor,,,,,Transporter/receptor,4
+ADORA2A, Receptor,,,,,Transporter/receptor,4
+GABBR1, Receptor,,,,,Transporter/receptor,4
+NPC1L1, Receptor,,,,,Transporter/receptor,4
+TRNR1, Receptor,,,,,Transporter/receptor,4
+GABBR2, Receptor,,,,,Transporter/receptor,4
+ENG, Receptor,,,,,Transporter/receptor,4
+AGTR2, Receptor,,,,,Transporter/receptor,4
+OPRM1, Receptor,,,,,Transporter/receptor,4
+CRHR1, Receptor,,,,,Transporter/receptor,4
+LPHN2, Receptor,,,,,Transporter/receptor,4
+RTN4R, Receptor,,,,,Transporter/receptor,4
+CD46, Receptor,,,,,Transporter/receptor,4
+FLT4, Receptor,,,,,Transporter/receptor,4
+NR2F1, Receptor,,,,,Transporter/receptor,4
+PLXNB2, Receptor,,,,,Transporter/receptor,4
+TSPAN7, Receptor,,,,,Transporter/receptor,4
+EPHB2, Receptor,,,,,Transporter/receptor,4
+RORB, Receptor,,,,,Transporter/receptor,4
+EPHA5, Receptor,,,,,Transporter/receptor,4
+HTR2A, Receptor,,,,,Transporter/receptor,4
+ERBB4, Receptor,,,,,Transporter/receptor,4
+CXCR4, Receptor,,,,,Transporter/receptor,4
+OR10H2, Receptor,,,,,Transporter/receptor,4
+DLG2,Transmembrane receptor regulatory/adaptor,,,,,Transporter/receptor,4
+GIPC1,Transmembrane receptor regulatory/adaptor,,,,,Transporter/receptor,4
+COL6A3,Extracellular matrix,,,,,Transporter/receptor,4
+NID1,Extracellular matrix,,,,,Transporter/receptor,4
+HSPG2,Extracellular matrix,,,,,Transporter/receptor,4
+COL6A2,Extracellular matrix,,,,,Transporter/receptor,4
+MATN4,Extracellular matrix,,,,,Transporter/receptor,4
+COL2A1,Extracellular matrix,,,,,Transporter/receptor,4
+TNFAIP6,Extracellular matrix,,,,,Transporter/receptor,4
+PCDH15,Cell adhesion molecule,,,,,Transporter/receptor,4
+PCDHB4,Cell adhesion molecule,,,,,Transporter/receptor,4
+CTNND2,Cell adhesion molecule,,,,,Transporter/receptor,4
+PCDH12,Cell adhesion molecule,,,,,Transporter/receptor,4
+PCDHB13,Cell adhesion molecule,,,,,Transporter/receptor,4
+CELSR3,Cell adhesion molecule,,,,,Transporter/receptor,4
+NLGN1,Cell adhesion molecule,,,,,Transporter/receptor,4
+CHL1,Cell adhesion molecule,,,,,Transporter/receptor,4
+PCDH7,Cell adhesion molecule,,,,,Transporter/receptor,4
+PCDHG,Cell adhesion molecule,,,,,Transporter/receptor,4
+L1CAM,Cell adhesion molecule,,,,,Transporter/receptor,4
+NRG2,Signaling molecule,,,,,Transporter/receptor,4
+SEMA5B,Signaling molecule,,,,,Transporter/receptor,4
+IL6,Signaling molecule,,,,,Transporter/receptor,4
+CRH,Signaling molecule,,,,,Transporter/receptor,4
+PDYN,Signaling molecule,,,,,Transporter/receptor,4
+BMP5,Signaling molecule,,,,,Transporter/receptor,4
+IL1B,Signaling molecule,,,,,Transporter/receptor,4
+NRG3,Signaling molecule,,,,,Transporter/receptor,4
+BDNF,Signaling molecule,,,,,Transporter/receptor,4
+IL1RN,Signaling molecule,,,,,Transporter/receptor,4
+IL10,Signaling molecule,,,,,Transporter/receptor,4
+CALN1,Signal transduction,,,,,Transporter/receptor,4
+CLSTN1,Signal transduction,,,,,Transporter/receptor,4
+GJD2,Membrane structure,,,,,Transporter/receptor,4
+PMP22,Membrane structure,,,,,Transporter/receptor,4
+LOR,Membrane structure,,,,,Transporter/receptor,4
+SYT2,Membrane trafficking,,,,,Transporter/receptor,4
+SYN2,Membrane trafficking,,,,,Transporter/receptor,4
+EXOC6B,Membrane trafficking,,,,,Transporter/receptor,4
+TSNARE1,Membrane trafficking,,,,,Transporter/receptor,4
+VPS35,Membrane trafficking,,,,,Transporter/receptor,4
+NAPB,Membrane trafficking,,,,,Transporter/receptor,4
+SNAP25,Membrane trafficking,,,,,Transporter/receptor,4
+SEC24D,Membrane trafficking,,,,,Transporter/receptor,4
+SV2A,Membrane trafficking,,,,,Transporter/receptor,4
+SUCO,Surfactant protein,,,,,Transporter/receptor,4
+KIF3C,Cytoskeletal protein,,,,,Transporter/receptor,4
+MYH6,Cytoskeletal protein,,,,,Transporter/receptor,4
+DMD,Cytoskeletal protein,,,,,Transporter/receptor,4
+TBCD,Cytoskeletal protein,,,,,Transporter/receptor,4
+GAS2L2,Cytoskeletal protein,,,,,Transporter/receptor,4
+MYH14,Cytoskeletal protein,,,,,Transporter/receptor,4
+TUBA3E,Cytoskeletal protein,,,,,Transporter/receptor,4
+MYO9B,Cytoskeletal protein,,,,,Transporter/receptor,4
+NEB,Cytoskeletal protein,,,,,Transporter/receptor,4
+SVIL,Cytoskeletal protein,,,,,Transporter/receptor,4
+HIP1,Cytoskeletal protein,,,,,Transporter/receptor,4
+CUX1,Nucleic acid binding,,,,,Transporter/receptor,4
+PHOX2B,Nucleic acid binding,,,,,Transporter/receptor,4
+RBPJ,Nucleic acid binding,,,,,Transporter/receptor,4
+SCNM1,Nucleic acid binding,,,,,Transporter/receptor,4
+EFTUD2,Nucleic acid binding,,,,,Transporter/receptor,4
+DMBX1,Nucleic acid binding,,,,,Transporter/receptor,4
+HOXD,Nucleic acid binding,,,,,Transporter/receptor,4
+SCA2,Nucleic acid binding,,,,,Transporter/receptor,4
+SETD5,Nucleic acid binding,,,,,Transporter/receptor,4
+SON,Nucleic acid binding,,,,,Transporter/receptor,4
+ZBTB18,Nucleic acid binding,,,,,Transporter/receptor,4
+ZNF12,Nucleic acid binding,,,,,Transporter/receptor,4
+HNRNPH1,Nucleic acid binding,,,,,Transporter/receptor,4
+THAP1,Nucleic acid binding,,,,,Transporter/receptor,4
+CREBBP,Nucleic acid binding,,,,,Transporter/receptor,4
+INO80,Nucleic acid binding,,,,,Transporter/receptor,4
+RFX3,Nucleic acid binding,,,,,Transporter/receptor,4
+GMEB2,Nucleic acid binding,,,,,Transporter/receptor,4
+CELF4,Nucleic acid binding,,,,,Transporter/receptor,4
+YAP1,Nucleic acid binding,,,,,Transporter/receptor,4
+HNRNPU,Nucleic acid binding,,,,,Transporter/receptor,4
+RBFOX3,Nucleic acid binding,,,,,Transporter/receptor,4
+MLLT3,Nucleic acid binding,,,,,Transporter/receptor,4
+EIF2C4,Nucleic acid binding,,,,,Transporter/receptor,4
+RBFOX1,Nucleic acid binding,,,,,Transporter/receptor,4
+ZNF44,Nucleic acid binding,,,,,Transporter/receptor,4
+BRD2,Nucleic acid binding,,,,,Transporter/receptor,4
+CENPW,Nucleic acid binding,,,,,Transporter/receptor,4
+MSC,Nucleic acid binding,,,,,Transporter/receptor,4
+MYOCD,Nucleic acid binding,,,,,Transporter/receptor,4
+JRK,Nucleic acid binding,,,,,Transporter/receptor,4
+EIF3E,Nucleic acid binding,,,,,Transporter/receptor,4
+KLF13,Nucleic acid binding,,,,,Transporter/receptor,4
+MED12,Nucleic acid binding,,,,,Transporter/receptor,4
+ZNF182,Nucleic acid binding,,,,,Transporter/receptor,4
+ZMYND11,Nucleic acid binding,,,,,Transporter/receptor,4
+TBCD,Chaperone,,,,,Transporter/receptor,4
+TOR1A,Chaperone,,,,,Transporter/receptor,4
+KPNA7,Transfer/carrier,,,,,Transporter/receptor,4
+APOE4,Transfer/carrier,,,,,Transporter/receptor,4
+WDR19,Transfer/carrier,,,,,Transporter/receptor,4
+CYTB,Transfer/carrier,,,,,Transporter/receptor,4
+IGSF8,Defence/immune,,,,,Transporter/receptor,4
+C3,Defence/immune,,,,,Transporter/receptor,4
+SKI,Unclassified,,,,,Transporter/receptor,4
+YWHAE,Unclassified,,,,,Transporter/receptor,4
+NCKAP5,Unclassified,,,,,Transporter/receptor,4
+ITGB1BP1,Unclassified,,,,,Transporter/receptor,4
+NGFRAP1,Unclassified,,,,,Transporter/receptor,4
+STYXL1,Unclassified,,,,,Transporter/receptor,4
+PIK3AP1,Unclassified,,,,,Transporter/receptor,4
+SEZ6,Unclassified,,,,,Transporter/receptor,4
+TMEM139,Unclassified,,,,,Transporter/receptor,4
+PODXL,Unclassified,,,,,Transporter/receptor,4
+TSPYL4,Unclassified,,,,,Transporter/receptor,4
+TTN,Unclassified,,,,,Transporter/receptor,4
+PRICKLE2,Unclassified,,,,,Transporter/receptor,4
+NELL1,Unclassified,,,,,Transporter/receptor,4
+TBL1XR1,Unclassified,,,,,Transporter/receptor,4
+PRRC2B,Unclassified,,,,,Transporter/receptor,4
+RD3,Unclassified,,,,,Transporter/receptor,4
+DIP2C,Unclassified,,,,,Transporter/receptor,4
+LRFN5,Unclassified,,,,,Transporter/receptor,4
+BRWD3,Unclassified,,,,,Transporter/receptor,4
+SLC7A6OS,Unclassified,,,,,Transporter/receptor,4
+SHANK1,Unclassified,,,,,Transporter/receptor,4
+NKAIN3,Unclassified,,,,,Transporter/receptor,4
+C18orf25,Unclassified,,,,,Transporter/receptor,4
+ST7,Unclassified,,,,,Transporter/receptor,4
+C7orf55,Unclassified,,,,,Transporter/receptor,4
+TENM2,Unclassified,,,,,Transporter/receptor,4
+ZFYVE20,Unclassified,,,,,Transporter/receptor,4
+KIAA2022,Unclassified,,,,,Transporter/receptor,4
+HEG1,Unclassified,,,,,Transporter/receptor,4
+GRIP1,Unclassified,,,,,Transporter/receptor,4
+SQSTM1,Unclassified,,,,,Transporter/receptor,4
+NOL11,Unclassified,,,,,Transporter/receptor,4
+RB1,Unclassified,,,,,Transporter/receptor,4
+ST5,Unclassified,,,,,Transporter/receptor,4
+BSN,Unclassified,,,,,Transporter/receptor,4
+C16orf62,Unclassified,,,,,Transporter/receptor,4
+FLG,Unclassified,,,,,Transporter/receptor,4

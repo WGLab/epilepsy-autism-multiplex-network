@@ -1,0 +1,21 @@
+HPO,parent,HPO_name
+HP:0000729,root,Autistic behavior
+HP:0000723,HP:0000729,Restrictive behavior
+HP:0000723,HP:0000729,Restrictive behavior
+HP:0000735,HP:0000729,Impaired social interactions
+HP:0000717,HP:0000729,Autism
+HP:0000717,HP:0000729,Autism
+HP:0031433,HP:0000729,Alexithymia
+HP:0031433,HP:0000729,Alexithymia
+HP:0000753,HP:0000729,Autism with high cognitive abilities
+HP:0000753,HP:0000729,Autism with high cognitive abilities
+HP:0002332,HP:0000735,Lack of peer relationships
+HP:0002332,HP:0000735,Lack of peer relationships
+HP:0000728,HP:0000735,Impaired ability to form peer relationships
+HP:0000728,HP:0000735,Impaired ability to form peer relationships
+HP:0000817,HP:0000735,Poor eye contact
+HP:0000817,HP:0000735,Poor eye contact
+HP:0008763,HP:0000735,No social interaction
+HP:0008763,HP:0000735,No social interaction
+HP:0000758,HP:0000735,Impaired use of nonverbal behaviors
+HP:0000758,HP:0000735,Impaired use of nonverbal behaviors

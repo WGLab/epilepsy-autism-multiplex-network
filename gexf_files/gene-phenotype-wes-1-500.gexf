@@ -1,0 +1,662 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-11-03">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="CDAN1" label="CDAN1" />
+      <node id="CELF4" label="CELF4" />
+      <node id="PLEKHG5" label="PLEKHG5" />
+      <node id="GSTA1" label="GSTA1" />
+      <node id="EIF3A" label="EIF3A" />
+      <node id="ASH1L" label="ASH1L" />
+      <node id="ARID3C" label="ARID3C" />
+      <node id="EYA4" label="EYA4" />
+      <node id="HPS3" label="HPS3" />
+      <node id="MAP3K1" label="MAP3K1" />
+      <node id="QSOX2" label="QSOX2" />
+      <node id="PTPRG" label="PTPRG" />
+      <node id="RFX3" label="RFX3" />
+      <node id="BBS1" label="BBS1" />
+      <node id="MED13L" label="MED13L" />
+      <node id="TRAF7" label="TRAF7" />
+      <node id="ATAD3B" label="ATAD3B" />
+      <node id="TAOK1" label="TAOK1" />
+      <node id="KCNQ4" label="KCNQ4" />
+      <node id="GRIA2" label="GRIA2" />
+      <node id="CORO1A" label="CORO1A" />
+      <node id="CNN3" label="CNN3" />
+      <node id="AMBRA1" label="AMBRA1" />
+      <node id="CLK1" label="CLK1" />
+      <node id="MST1" label="MST1" />
+      <node id="DNAH3" label="DNAH3" />
+      <node id="GLDC" label="GLDC" />
+      <node id="ZMYND8" label="ZMYND8" />
+      <node id="KCNB1" label="KCNB1" />
+      <node id="TRPM6" label="TRPM6" />
+      <node id="GIGYF1" label="GIGYF1" />
+      <node id="DEPDC5" label="DEPDC5" />
+      <node id="ATN1" label="ATN1" />
+      <node id="NPC1L1" label="NPC1L1" />
+      <node id="CEPT1" label="CEPT1" />
+      <node id="EIF3G" label="EIF3G" />
+      <node id="DYNC1H1" label="DYNC1H1" />
+      <node id="SCN1A" label="SCN1A" />
+      <node id="TLK2" label="TLK2" />
+      <node id="ELTD1" label="ELTD1" />
+      <node id="F13B" label="F13B" />
+      <node id="WAC" label="WAC" />
+      <node id="GABRB3" label="GABRB3" />
+      <node id="KCNMA1" label="KCNMA1" />
+      <node id="LDB1" label="LDB1" />
+      <node id="RECQL5" label="RECQL5" />
+      <node id="GRIN2B" label="GRIN2B" />
+      <node id="TRIP12" label="TRIP12" />
+      <node id="ADCY9" label="ADCY9" />
+      <node id="KMT5B" label="KMT5B" />
+      <node id="SETD5" label="SETD5" />
+      <node id="CACNA1E" label="CACNA1E" />
+      <node id="DEAF1" label="DEAF1" />
+      <node id="MEI1" label="MEI1" />
+      <node id="STOX1" label="STOX1" />
+      <node id="RAB40C" label="RAB40C" />
+      <node id="LETM2" label="LETM2" />
+      <node id="GFAP" label="GFAP" />
+      <node id="NEBL" label="NEBL" />
+      <node id="CACNA2D3" label="CACNA2D3" />
+      <node id="VEZF1" label="VEZF1" />
+      <node id="ACAT1" label="ACAT1" />
+      <node id="FOXP1" label="FOXP1" />
+      <node id="KMT2E" label="KMT2E" />
+      <node id="FBXL6" label="FBXL6" />
+      <node id="TECR" label="TECR" />
+      <node id="SH2D3C" label="SH2D3C" />
+      <node id="MYH3" label="MYH3" />
+      <node id="GBF1" label="GBF1" />
+      <node id="ATR" label="ATR" />
+      <node id="TBR1" label="TBR1" />
+      <node id="PPFIBP2" label="PPFIBP2" />
+      <node id="MBD5" label="MBD5" />
+      <node id="RNF168" label="RNF168" />
+      <node id="SRPR" label="SRPR" />
+      <node id="PHF2" label="PHF2" />
+      <node id="LRIG2" label="LRIG2" />
+      <node id="ZNF587" label="ZNF587" />
+      <node id="NR3C2" label="NR3C2" />
+      <node id="STXBP1" label="STXBP1" />
+      <node id="LGI1" label="LGI1" />
+      <node id="TBL1XR1" label="TBL1XR1" />
+      <node id="EEF1A2" label="EEF1A2" />
+      <node id="ARFGEF1" label="ARFGEF1" />
+      <node id="SETD2" label="SETD2" />
+      <node id="GABRB2" label="GABRB2" />
+      <node id="SCN8A" label="SCN8A" />
+      <node id="CTNNB1" label="CTNNB1" />
+      <node id="ASXL3" label="ASXL3" />
+      <node id="DIP2A" label="DIP2A" />
+      <node id="HECTD4" label="HECTD4" />
+      <node id="SLC22A2" label="SLC22A2" />
+      <node id="SLC6A1" label="SLC6A1" />
+      <node id="SLC6A7" label="SLC6A7" />
+      <node id="PPP5C" label="PPP5C" />
+      <node id="PCCB" label="PCCB" />
+      <node id="POM121L12" label="POM121L12" />
+      <node id="CYP4F11" label="CYP4F11" />
+      <node id="RAD51C" label="RAD51C" />
+      <node id="POGZ" label="POGZ" />
+      <node id="CHD2" label="CHD2" />
+      <node id="NEXMIF" label="NEXMIF" />
+      <node id="KCNJ14" label="KCNJ14" />
+      <node id="SEPN1" label="SEPN1" />
+      <node id="PTK7" label="PTK7" />
+      <node id="GTPBP6" label="GTPBP6" />
+      <node id="ITGA6" label="ITGA6" />
+      <node id="CMTR2" label="CMTR2" />
+      <node id="THSD7A" label="THSD7A" />
+      <node id="TEK" label="TEK" />
+      <node id="TRMT61B" label="TRMT61B" />
+      <node id="LASP1" label="LASP1" />
+      <node id="TSPAN11" label="TSPAN11" />
+      <node id="AGXT2" label="AGXT2" />
+      <node id="IQGAP2" label="IQGAP2" />
+      <node id="MCF2L2" label="MCF2L2" />
+      <node id="MYO10" label="MYO10" />
+      <node id="CTSA" label="CTSA" />
+      <node id="PPP1R9B" label="PPP1R9B" />
+      <node id="TFIP11" label="TFIP11" />
+      <node id="MBOAT2" label="MBOAT2" />
+      <node id="SATB1" label="SATB1" />
+      <node id="PPFIA3" label="PPFIA3" />
+      <node id="MYT1L" label="MYT1L" />
+      <node id="TOM1L2" label="TOM1L2" />
+      <node id="GLI1" label="GLI1" />
+      <node id="DYRK1A" label="DYRK1A" />
+      <node id="ATP9B" label="ATP9B" />
+      <node id="SCUBE3" label="SCUBE3" />
+      <node id="DNAH8" label="DNAH8" />
+      <node id="TCF7L2" label="TCF7L2" />
+      <node id="CRIPAK" label="CRIPAK" />
+      <node id="KIAA0232" label="KIAA0232" />
+      <node id="DSCAM" label="DSCAM" />
+      <node id="HSF4" label="HSF4" />
+      <node id="PI4K2A" label="PI4K2A" />
+      <node id="MAP3K4" label="MAP3K4" />
+      <node id="CDK5RAP2" label="CDK5RAP2" />
+      <node id="TM9SF4" label="TM9SF4" />
+      <node id="SMARCC2" label="SMARCC2" />
+      <node id="NUP155" label="NUP155" />
+      <node id="KCNQ3" label="KCNQ3" />
+      <node id="CACNA1G" label="CACNA1G" />
+      <node id="NACC1" label="NACC1" />
+      <node id="NRG3" label="NRG3" />
+      <node id="CDC20B" label="CDC20B" />
+      <node id="MARK3" label="MARK3" />
+      <node id="NRXN1" label="NRXN1" />
+      <node id="DDIAS" label="DDIAS" />
+      <node id="PASK" label="PASK" />
+      <node id="DGKD" label="DGKD" />
+      <node id="CD101" label="CD101" />
+      <node id="TRIM23" label="TRIM23" />
+      <node id="CADM4" label="CADM4" />
+      <node id="SYNGAP1" label="SYNGAP1" />
+      <node id="GPRC5C" label="GPRC5C" />
+      <node id="SPAST" label="SPAST" />
+      <node id="ADNP" label="ADNP" />
+      <node id="SLC6A2" label="SLC6A2" />
+      <node id="COBLL1" label="COBLL1" />
+      <node id="UBR1" label="UBR1" />
+      <node id="SIN3A" label="SIN3A" />
+      <node id="RINL" label="RINL" />
+      <node id="POLR3C" label="POLR3C" />
+      <node id="INSC" label="INSC" />
+      <node id="POC1A" label="POC1A" />
+      <node id="DPYSL2" label="DPYSL2" />
+      <node id="LMF2" label="LMF2" />
+      <node id="TFB2M" label="TFB2M" />
+      <node id="ARL8A" label="ARL8A" />
+      <node id="ZNF226" label="ZNF226" />
+      <node id="GTF3C4" label="GTF3C4" />
+      <node id="HK3" label="HK3" />
+      <node id="TRIM3" label="TRIM3" />
+      <node id="ATP6V1C2" label="ATP6V1C2" />
+      <node id="PHF21A" label="PHF21A" />
+      <node id="LYZL2" label="LYZL2" />
+      <node id="HGS" label="HGS" />
+      <node id="GABRA1" label="GABRA1" />
+      <node id="PHF12" label="PHF12" />
+      <node id="CHD8" label="CHD8" />
+      <node id="CMTM1" label="CMTM1" />
+      <node id="HECW2" label="HECW2" />
+      <node id="WDR35" label="WDR35" />
+      <node id="KCNT2" label="KCNT2" />
+      <node id="KAT5" label="KAT5" />
+      <node id="EGFR" label="EGFR" />
+      <node id="TYR" label="TYR" />
+      <node id="TCTE1" label="TCTE1" />
+      <node id="ASGR2" label="ASGR2" />
+      <node id="RORB" label="RORB" />
+      <node id="AGO1" label="AGO1" />
+      <node id="MBNL2" label="MBNL2" />
+      <node id="SKI" label="SKI" />
+      <node id="PSG4" label="PSG4" />
+      <node id="NSD1" label="NSD1" />
+      <node id="SYNE2" label="SYNE2" />
+      <node id="AP2S1" label="AP2S1" />
+      <node id="KDM5B" label="KDM5B" />
+      <node id="DNAH17" label="DNAH17" />
+      <node id="PRR12" label="PRR12" />
+      <node id="TCF4" label="TCF4" />
+      <node id="LRRC4C" label="LRRC4C" />
+      <node id="HSD17B4" label="HSD17B4" />
+      <node id="AAGAB" label="AAGAB" />
+      <node id="DHTKD1" label="DHTKD1" />
+      <node id="STK39" label="STK39" />
+      <node id="SPEN" label="SPEN" />
+      <node id="PPP2R5D" label="PPP2R5D" />
+      <node id="UNC79" label="UNC79" />
+      <node id="GTPBP2" label="GTPBP2" />
+      <node id="HDLBP" label="HDLBP" />
+      <node id="DNAJC13" label="DNAJC13" />
+      <node id="MAP1A" label="MAP1A" />
+      <node id="PPARG" label="PPARG" />
+      <node id="ALDH7A1" label="ALDH7A1" />
+      <node id="INPPL1" label="INPPL1" />
+      <node id="JUN" label="JUN" />
+      <node id="FOXP2" label="FOXP2" />
+      <node id="HTR5A" label="HTR5A" />
+      <node id="SLC7A9" label="SLC7A9" />
+      <node id="RBM4" label="RBM4" />
+      <node id="CCDC66" label="CCDC66" />
+      <node id="IRF2BPL" label="IRF2BPL" />
+      <node id="RC3H2" label="RC3H2" />
+      <node id="TOR1A" label="TOR1A" />
+      <node id="LDLR" label="LDLR" />
+      <node id="CSNK2B" label="CSNK2B" />
+      <node id="GGA2" label="GGA2" />
+      <node id="METTL20" label="METTL20" />
+      <node id="MKX" label="MKX" />
+      <node id="MSH3" label="MSH3" />
+      <node id="FDXR" label="FDXR" />
+      <node id="ANK2" label="ANK2" />
+      <node id="SHANK2" label="SHANK2" />
+      <node id="TRIOBP" label="TRIOBP" />
+      <node id="BCL11A" label="BCL11A" />
+      <node id="MYO5C" label="MYO5C" />
+      <node id="WDR59" label="WDR59" />
+      <node id="ANKRD11" label="ANKRD11" />
+      <node id="SLC9A1" label="SLC9A1" />
+      <node id="MTMR11" label="MTMR11" />
+      <node id="GABRG2" label="GABRG2" />
+      <node id="SEC61A2" label="SEC61A2" />
+      <node id="C1orf177" label="C1orf177" />
+      <node id="LY75-CD302" label="LY75-CD302" />
+      <node id="DNMT3A" label="DNMT3A" />
+      <node id="RAI1" label="RAI1" />
+      <node id="ANKRD13B" label="ANKRD13B" />
+      <node id="MEFV" label="MEFV" />
+      <node id="GNAI1" label="GNAI1" />
+      <node id="CACNG2" label="CACNG2" />
+      <node id="GAL3ST3" label="GAL3ST3" />
+      <node id="EIF4A3" label="EIF4A3" />
+      <node id="TNPO1" label="TNPO1" />
+      <node id="ARID1B" label="ARID1B" />
+      <node id="ATM" label="ATM" />
+      <node id="SLC5A8" label="SLC5A8" />
+      <node id="KMT2C" label="KMT2C" />
+      <node id="NCOA1" label="NCOA1" />
+      <node id="LRRFIP2" label="LRRFIP2" />
+      <node id="SRRM2" label="SRRM2" />
+      <node id="DLG4" label="DLG4" />
+      <node id="STIL" label="STIL" />
+      <node id="ZNF668" label="ZNF668" />
+      <node id="RECK" label="RECK" />
+      <node id="UNC13D" label="UNC13D" />
+      <node id="CREBBP" label="CREBBP" />
+      <node id="ZNF282" label="ZNF282" />
+      <node id="SCN2A" label="SCN2A" />
+      <node id="COLQ" label="COLQ" />
+      <node id="EIF4G1" label="EIF4G1" />
+      <node id="ITGB6" label="ITGB6" />
+      <node id="SHANK3" label="SHANK3" />
+      <node id="PAX5" label="PAX5" />
+      <node id="COL6A2" label="COL6A2" />
+      <node id="ELAVL3" label="ELAVL3" />
+      <node id="KDM6B" label="KDM6B" />
+      <node id="BAIAP3" label="BAIAP3" />
+      <node id="ZNF30" label="ZNF30" />
+      <node id="CUL7" label="CUL7" />
+      <node id="MED12" label="MED12" />
+      <node id="M1AP" label="M1AP" />
+      <node id="ADCY10" label="ADCY10" />
+      <node id="TCF20" label="TCF20" />
+      <node id="TSC1" label="TSC1" />
+      <node id="ZNF416" label="ZNF416" />
+      <node id="KIAA1919" label="KIAA1919" />
+      <node id="FXR1" label="FXR1" />
+      <node id="ATXN7" label="ATXN7" />
+      <node id="PTEN" label="PTEN" />
+      <node id="MTRF1" label="MTRF1" />
+      <node id="L3MBTL4" label="L3MBTL4" />
+      <node id="CC2D1A" label="CC2D1A" />
+    </nodes>
+    <edges>
+      <edge id="0" source="CELF4" target="EIF3G" />
+      <edge id="1" source="CELF4" target="ELAVL3" />
+      <edge id="2" source="CELF4" target="SPEN" />
+      <edge id="3" source="EIF3A" target="EIF3G" />
+      <edge id="4" source="EIF3A" target="FXR1" />
+      <edge id="5" source="ASH1L" target="KMT2C" />
+      <edge id="6" source="ASH1L" target="KMT2E" />
+      <edge id="7" source="ASH1L" target="NSD1" />
+      <edge id="8" source="ASH1L" target="PHF2" />
+      <edge id="9" source="ASH1L" target="SETD2" />
+      <edge id="10" source="ARID3C" target="ARID1B" />
+      <edge id="11" source="ARID3C" target="PHF2" />
+      <edge id="12" source="ARID3C" target="SMARCC2" />
+      <edge id="13" source="HPS3" target="RINL" />
+      <edge id="14" source="HPS3" target="TYR" />
+      <edge id="15" source="MAP3K1" target="RORB" />
+      <edge id="16" source="BBS1" target="GBF1" />
+      <edge id="17" source="BBS1" target="TNPO1" />
+      <edge id="18" source="ATAD3B" target="SPAST" />
+      <edge id="19" source="KCNQ4" target="ANK2" />
+      <edge id="20" source="KCNQ4" target="CACNA1E" />
+      <edge id="21" source="KCNQ4" target="CACNA2D3" />
+      <edge id="22" source="KCNQ4" target="CACNG2" />
+      <edge id="23" source="KCNQ4" target="DLG4" />
+      <edge id="24" source="KCNQ4" target="KCNB1" />
+      <edge id="25" source="KCNQ4" target="KCNJ14" />
+      <edge id="26" source="KCNQ4" target="KCNMA1" />
+      <edge id="27" source="KCNQ4" target="KCNQ3" />
+      <edge id="28" source="KCNQ4" target="KCNT2" />
+      <edge id="29" source="KCNQ4" target="SCN2A" />
+      <edge id="30" source="KCNQ4" target="SCN8A" />
+      <edge id="31" source="KCNQ4" target="SLC9A1" />
+      <edge id="32" source="GRIA2" target="HTR5A" />
+      <edge id="33" source="GRIA2" target="L3MBTL4" />
+      <edge id="34" source="CORO1A" target="SEC61A2" />
+      <edge id="35" source="AMBRA1" target="CDC20B" />
+      <edge id="36" source="AMBRA1" target="POC1A" />
+      <edge id="37" source="AMBRA1" target="TBL1XR1" />
+      <edge id="38" source="AMBRA1" target="WDR35" />
+      <edge id="39" source="AMBRA1" target="WDR59" />
+      <edge id="40" source="DNAH3" target="DNAH17" />
+      <edge id="41" source="DNAH3" target="DNAH8" />
+      <edge id="42" source="DNAH3" target="ZMYND8" />
+      <edge id="43" source="GLDC" target="AGXT2" />
+      <edge id="44" source="GLDC" target="PCCB" />
+      <edge id="45" source="ZMYND8" target="DNAH17" />
+      <edge id="46" source="ZMYND8" target="DNAH8" />
+      <edge id="47" source="KCNB1" target="CACNA1E" />
+      <edge id="48" source="KCNB1" target="CACNA2D3" />
+      <edge id="49" source="KCNB1" target="CACNG2" />
+      <edge id="50" source="KCNB1" target="EEF1A2" />
+      <edge id="51" source="KCNB1" target="GABRB2" />
+      <edge id="52" source="KCNB1" target="GRIN2B" />
+      <edge id="53" source="KCNB1" target="HK3" />
+      <edge id="54" source="KCNB1" target="KCNJ14" />
+      <edge id="55" source="KCNB1" target="KCNQ3" />
+      <edge id="56" source="KCNB1" target="KCNT2" />
+      <edge id="57" source="KCNB1" target="SCN2A" />
+      <edge id="58" source="KCNB1" target="SCN8A" />
+      <edge id="59" source="KCNB1" target="SLC6A1" />
+      <edge id="60" source="KCNB1" target="SLC9A1" />
+      <edge id="61" source="KCNB1" target="STXBP1" />
+      <edge id="62" source="KCNB1" target="SYNGAP1" />
+      <edge id="63" source="NPC1L1" target="HDLBP" />
+      <edge id="64" source="NPC1L1" target="LMF2" />
+      <edge id="65" source="CEPT1" target="MBOAT2" />
+      <edge id="66" source="EIF3G" target="ELAVL3" />
+      <edge id="67" source="EIF3G" target="FXR1" />
+      <edge id="68" source="EIF3G" target="SPEN" />
+      <edge id="69" source="SCN1A" target="CACNG2" />
+      <edge id="70" source="SCN1A" target="CHD2" />
+      <edge id="71" source="SCN1A" target="GABRA1" />
+      <edge id="72" source="SCN1A" target="GABRB3" />
+      <edge id="73" source="SCN1A" target="GABRG2" />
+      <edge id="74" source="SCN1A" target="SCN2A" />
+      <edge id="75" source="WAC" target="TCF20" />
+      <edge id="76" source="GABRB3" target="CHD2" />
+      <edge id="77" source="GABRB3" target="GABRA1" />
+      <edge id="78" source="GABRB3" target="GABRG2" />
+      <edge id="79" source="GABRB3" target="KMT5B" />
+      <edge id="80" source="GABRB3" target="SLC6A1" />
+      <edge id="81" source="GABRB3" target="TOR1A" />
+      <edge id="82" source="KCNMA1" target="CHD2" />
+      <edge id="83" source="KCNMA1" target="GABRG2" />
+      <edge id="84" source="KCNMA1" target="KCNT2" />
+      <edge id="85" source="KCNMA1" target="SCN8A" />
+      <edge id="86" source="KCNMA1" target="SLC6A1" />
+      <edge id="87" source="LDB1" target="BAIAP3" />
+      <edge id="88" source="GRIN2B" target="ADCY9" />
+      <edge id="89" source="GRIN2B" target="CACNA1E" />
+      <edge id="90" source="GRIN2B" target="CACNG2" />
+      <edge id="91" source="GRIN2B" target="DLG4" />
+      <edge id="92" source="GRIN2B" target="EEF1A2" />
+      <edge id="93" source="GRIN2B" target="GABRB2" />
+      <edge id="94" source="GRIN2B" target="GNAI1" />
+      <edge id="95" source="GRIN2B" target="KCNQ3" />
+      <edge id="96" source="GRIN2B" target="KCNT2" />
+      <edge id="97" source="GRIN2B" target="SCN2A" />
+      <edge id="98" source="GRIN2B" target="SYNGAP1" />
+      <edge id="99" source="ADCY9" target="ATP6V1C2" />
+      <edge id="100" source="ADCY9" target="CREBBP" />
+      <edge id="101" source="ADCY9" target="CSNK2B" />
+      <edge id="102" source="ADCY9" target="CTNNB1" />
+      <edge id="103" source="ADCY9" target="EGFR" />
+      <edge id="104" source="ADCY9" target="GNAI1" />
+      <edge id="105" source="ADCY9" target="JUN" />
+      <edge id="106" source="ADCY9" target="NCOA1" />
+      <edge id="107" source="ADCY9" target="PPP2R5D" />
+      <edge id="108" source="ADCY9" target="SLC9A1" />
+      <edge id="109" source="KMT5B" target="DYRK1A" />
+      <edge id="110" source="KMT5B" target="MBD5" />
+      <edge id="111" source="KMT5B" target="POGZ" />
+      <edge id="112" source="KMT5B" target="SETD5" />
+      <edge id="113" source="KMT5B" target="SLC6A1" />
+      <edge id="114" source="CACNA1E" target="CACNA2D3" />
+      <edge id="115" source="CACNA1E" target="CACNG2" />
+      <edge id="116" source="CACNA1E" target="HSD17B4" />
+      <edge id="117" source="CACNA1E" target="IRF2BPL" />
+      <edge id="118" source="DEAF1" target="RAI1" />
+      <edge id="119" source="RAB40C" target="MYO5C" />
+      <edge id="120" source="CACNA2D3" target="ANK2" />
+      <edge id="121" source="CACNA2D3" target="CACNG2" />
+      <edge id="122" source="CACNA2D3" target="GNAI1" />
+      <edge id="123" source="CACNA2D3" target="KCNJ14" />
+      <edge id="124" source="CACNA2D3" target="KCNQ3" />
+      <edge id="125" source="CACNA2D3" target="KCNT2" />
+      <edge id="126" source="CACNA2D3" target="SCN8A" />
+      <edge id="127" source="VEZF1" target="BCL11A" />
+      <edge id="128" source="VEZF1" target="ZNF226" />
+      <edge id="129" source="VEZF1" target="ZNF282" />
+      <edge id="130" source="VEZF1" target="ZNF30" />
+      <edge id="131" source="VEZF1" target="ZNF416" />
+      <edge id="132" source="VEZF1" target="ZNF587" />
+      <edge id="133" source="VEZF1" target="ZNF668" />
+      <edge id="134" source="KMT2E" target="KMT2C" />
+      <edge id="135" source="FBXL6" target="TSC1" />
+      <edge id="136" source="TECR" target="ATR" />
+      <edge id="137" source="TECR" target="CC2D1A" />
+      <edge id="138" source="TECR" target="KDM5B" />
+      <edge id="139" source="GBF1" target="TFB2M" />
+      <edge id="140" source="GBF1" target="TNPO1" />
+      <edge id="141" source="ATR" target="CC2D1A" />
+      <edge id="142" source="ATR" target="CDK5RAP2" />
+      <edge id="143" source="ATR" target="KAT5" />
+      <edge id="144" source="ATR" target="STIL" />
+      <edge id="145" source="TBR1" target="GTPBP2" />
+      <edge id="146" source="PPFIBP2" target="DGKD" />
+      <edge id="147" source="PPFIBP2" target="INPPL1" />
+      <edge id="148" source="PPFIBP2" target="L3MBTL4" />
+      <edge id="149" source="PPFIBP2" target="PPFIA3" />
+      <edge id="150" source="PPFIBP2" target="SHANK2" />
+      <edge id="151" source="PPFIBP2" target="SHANK3" />
+      <edge id="152" source="MBD5" target="DYRK1A" />
+      <edge id="153" source="PHF2" target="ARID1B" />
+      <edge id="154" source="PHF2" target="KDM6B" />
+      <edge id="155" source="PHF2" target="KMT2C" />
+      <edge id="156" source="ZNF587" target="GLI1" />
+      <edge id="157" source="ZNF587" target="ZNF226" />
+      <edge id="158" source="ZNF587" target="ZNF282" />
+      <edge id="159" source="ZNF587" target="ZNF30" />
+      <edge id="160" source="ZNF587" target="ZNF416" />
+      <edge id="161" source="ZNF587" target="ZNF668" />
+      <edge id="162" source="STXBP1" target="EEF1A2" />
+      <edge id="163" source="STXBP1" target="KCNQ3" />
+      <edge id="164" source="STXBP1" target="SCN2A" />
+      <edge id="165" source="STXBP1" target="SLC6A1" />
+      <edge id="166" source="TBL1XR1" target="WDR59" />
+      <edge id="167" source="EEF1A2" target="GABRB2" />
+      <edge id="168" source="EEF1A2" target="KCNT2" />
+      <edge id="169" source="EEF1A2" target="SCN8A" />
+      <edge id="170" source="EEF1A2" target="SLC6A1" />
+      <edge id="171" source="EEF1A2" target="SYNGAP1" />
+      <edge id="172" source="ARFGEF1" target="MYO10" />
+      <edge id="173" source="SETD2" target="NSD1" />
+      <edge id="174" source="GABRB2" target="CHD2" />
+      <edge id="175" source="GABRB2" target="KCNT2" />
+      <edge id="176" source="GABRB2" target="SCN8A" />
+      <edge id="177" source="GABRB2" target="SLC6A1" />
+      <edge id="178" source="GABRB2" target="SYNGAP1" />
+      <edge id="179" source="SCN8A" target="CACNG2" />
+      <edge id="180" source="SCN8A" target="DLG4" />
+      <edge id="181" source="SCN8A" target="KCNJ14" />
+      <edge id="182" source="SCN8A" target="KCNT2" />
+      <edge id="183" source="SCN8A" target="SCN2A" />
+      <edge id="184" source="SCN8A" target="SYNGAP1" />
+      <edge id="185" source="CTNNB1" target="CSNK2B" />
+      <edge id="186" source="CTNNB1" target="EGFR" />
+      <edge id="187" source="CTNNB1" target="GNAI1" />
+      <edge id="188" source="CTNNB1" target="JUN" />
+      <edge id="189" source="CTNNB1" target="PPP2R5D" />
+      <edge id="190" source="CTNNB1" target="TCF7L2" />
+      <edge id="191" source="ASXL3" target="HECW2" />
+      <edge id="192" source="DIP2A" target="PHF12" />
+      <edge id="193" source="SLC22A2" target="SLC5A8" />
+      <edge id="194" source="SLC22A2" target="SLC6A1" />
+      <edge id="195" source="SLC22A2" target="SLC6A2" />
+      <edge id="196" source="SLC22A2" target="SLC6A7" />
+      <edge id="197" source="SLC22A2" target="SLC7A9" />
+      <edge id="198" source="SLC22A2" target="SLC9A1" />
+      <edge id="199" source="SLC6A1" target="CHD2" />
+      <edge id="200" source="SLC6A1" target="DYRK1A" />
+      <edge id="201" source="SLC6A1" target="GABRA1" />
+      <edge id="202" source="SLC6A1" target="GABRG2" />
+      <edge id="203" source="SLC6A1" target="KCNQ3" />
+      <edge id="204" source="SLC6A1" target="SCN2A" />
+      <edge id="205" source="SLC6A1" target="SLC5A8" />
+      <edge id="206" source="SLC6A1" target="SLC6A7" />
+      <edge id="207" source="SLC6A1" target="SLC9A1" />
+      <edge id="208" source="SLC6A7" target="SLC5A8" />
+      <edge id="209" source="SLC6A7" target="SLC7A9" />
+      <edge id="210" source="SLC6A7" target="SLC9A1" />
+      <edge id="211" source="PPP5C" target="KAT5" />
+      <edge id="212" source="PPP5C" target="RAD51C" />
+      <edge id="213" source="RAD51C" target="KAT5" />
+      <edge id="214" source="CHD2" target="GABRG2" />
+      <edge id="215" source="CHD2" target="SCN2A" />
+      <edge id="216" source="KCNJ14" target="ANK2" />
+      <edge id="217" source="KCNJ14" target="CACNG2" />
+      <edge id="218" source="KCNJ14" target="DLG4" />
+      <edge id="219" source="KCNJ14" target="KCNQ3" />
+      <edge id="220" source="KCNJ14" target="KCNT2" />
+      <edge id="221" source="KCNJ14" target="SCN2A" />
+      <edge id="222" source="TEK" target="CD101" />
+      <edge id="223" source="TEK" target="EGFR" />
+      <edge id="224" source="TEK" target="JUN" />
+      <edge id="225" source="AGXT2" target="MBOAT2" />
+      <edge id="226" source="IQGAP2" target="ARL8A" />
+      <edge id="227" source="MCF2L2" target="RINL" />
+      <edge id="228" source="CTSA" target="GGA2" />
+      <edge id="229" source="PPFIA3" target="CHD8" />
+      <edge id="230" source="PPFIA3" target="DGKD" />
+      <edge id="231" source="PPFIA3" target="L3MBTL4" />
+      <edge id="232" source="PPFIA3" target="SHANK2" />
+      <edge id="233" source="PPFIA3" target="SHANK3" />
+      <edge id="234" source="GLI1" target="CREBBP" />
+      <edge id="235" source="GLI1" target="ZNF282" />
+      <edge id="236" source="GLI1" target="ZNF30" />
+      <edge id="237" source="GLI1" target="ZNF668" />
+      <edge id="238" source="DNAH8" target="DLG4" />
+      <edge id="239" source="DNAH8" target="DNAH17" />
+      <edge id="240" source="TCF7L2" target="CREBBP" />
+      <edge id="241" source="TCF7L2" target="GNAI1" />
+      <edge id="242" source="TCF7L2" target="JUN" />
+      <edge id="243" source="TCF7L2" target="KAT5" />
+      <edge id="244" source="TCF7L2" target="NCOA1" />
+      <edge id="245" source="DSCAM" target="LRRC4C" />
+      <edge id="246" source="CDK5RAP2" target="STIL" />
+      <edge id="247" source="SMARCC2" target="ARID1B" />
+      <edge id="248" source="KCNQ3" target="CACNG2" />
+      <edge id="249" source="KCNQ3" target="GABRA1" />
+      <edge id="250" source="KCNQ3" target="GABRG2" />
+      <edge id="251" source="KCNQ3" target="KCNT2" />
+      <edge id="252" source="KCNQ3" target="SCN2A" />
+      <edge id="253" source="CDC20B" target="WDR35" />
+      <edge id="254" source="CDC20B" target="WDR59" />
+      <edge id="255" source="DGKD" target="L3MBTL4" />
+      <edge id="256" source="DGKD" target="SHANK3" />
+      <edge id="257" source="TRIM23" target="MEFV" />
+      <edge id="258" source="TRIM23" target="TRIM3" />
+      <edge id="259" source="CADM4" target="PSG4" />
+      <edge id="260" source="SLC6A2" target="SLC5A8" />
+      <edge id="261" source="SLC6A2" target="SLC9A1" />
+      <edge id="262" source="INSC" target="TRIOBP" />
+      <edge id="263" source="POC1A" target="WDR35" />
+      <edge id="264" source="POC1A" target="WDR59" />
+      <edge id="265" source="LMF2" target="HDLBP" />
+      <edge id="266" source="TFB2M" target="TNPO1" />
+      <edge id="267" source="ZNF226" target="BCL11A" />
+      <edge id="268" source="ZNF226" target="ZNF282" />
+      <edge id="269" source="ZNF226" target="ZNF30" />
+      <edge id="270" source="ZNF226" target="ZNF416" />
+      <edge id="271" source="ZNF226" target="ZNF668" />
+      <edge id="272" source="GTF3C4" target="CREBBP" />
+      <edge id="273" source="GTF3C4" target="KAT5" />
+      <edge id="274" source="GTF3C4" target="NCOA1" />
+      <edge id="275" source="HK3" target="ATP6V1C2" />
+      <edge id="276" source="HK3" target="GNAI1" />
+      <edge id="277" source="TRIM3" target="MEFV" />
+      <edge id="278" source="TRIM3" target="MYO5C" />
+      <edge id="279" source="ATP6V1C2" target="GNAI1" />
+      <edge id="280" source="ATP6V1C2" target="JUN" />
+      <edge id="281" source="ATP6V1C2" target="PPP2R5D" />
+      <edge id="282" source="ATP6V1C2" target="SEC61A2" />
+      <edge id="283" source="PHF21A" target="PHF12" />
+      <edge id="284" source="HGS" target="SEC61A2" />
+      <edge id="285" source="GABRA1" target="GABRG2" />
+      <edge id="286" source="GABRA1" target="SCN2A" />
+      <edge id="287" source="CHD8" target="SHANK2" />
+      <edge id="288" source="WDR35" target="WDR59" />
+      <edge id="289" source="KCNT2" target="ANK2" />
+      <edge id="290" source="KCNT2" target="CACNG2" />
+      <edge id="291" source="KCNT2" target="SCN2A" />
+      <edge id="292" source="KAT5" target="ARID1B" />
+      <edge id="293" source="KAT5" target="CREBBP" />
+      <edge id="294" source="KAT5" target="CSNK2B" />
+      <edge id="295" source="KAT5" target="EGFR" />
+      <edge id="296" source="KAT5" target="JUN" />
+      <edge id="297" source="KAT5" target="NCOA1" />
+      <edge id="298" source="EGFR" target="CREBBP" />
+      <edge id="299" source="EGFR" target="CSNK2B" />
+      <edge id="300" source="EGFR" target="GNAI1" />
+      <edge id="301" source="EGFR" target="JUN" />
+      <edge id="302" source="EGFR" target="NCOA1" />
+      <edge id="303" source="EGFR" target="PPP2R5D" />
+      <edge id="304" source="NSD1" target="KMT2C" />
+      <edge id="305" source="KDM5B" target="CC2D1A" />
+      <edge id="306" source="KDM5B" target="SEC61A2" />
+      <edge id="307" source="HSD17B4" target="IRF2BPL" />
+      <edge id="308" source="STK39" target="ITGB6" />
+      <edge id="309" source="SPEN" target="ELAVL3" />
+      <edge id="310" source="PPP2R5D" target="CSNK2B" />
+      <edge id="311" source="PPP2R5D" target="GNAI1" />
+      <edge id="312" source="PPP2R5D" target="JUN" />
+      <edge id="313" source="PPP2R5D" target="NCOA1" />
+      <edge id="314" source="PPP2R5D" target="SLC9A1" />
+      <edge id="315" source="DNAJC13" target="EIF4G1" />
+      <edge id="316" source="INPPL1" target="L3MBTL4" />
+      <edge id="317" source="JUN" target="CREBBP" />
+      <edge id="318" source="JUN" target="CSNK2B" />
+      <edge id="319" source="JUN" target="GNAI1" />
+      <edge id="320" source="JUN" target="NCOA1" />
+      <edge id="321" source="JUN" target="PTEN" />
+      <edge id="322" source="JUN" target="SLC9A1" />
+      <edge id="323" source="FOXP2" target="CC2D1A" />
+      <edge id="324" source="SLC7A9" target="SLC5A8" />
+      <edge id="325" source="SLC7A9" target="SLC9A1" />
+      <edge id="326" source="RBM4" target="LRRFIP2" />
+      <edge id="327" source="CSNK2B" target="CREBBP" />
+      <edge id="328" source="CSNK2B" target="GNAI1" />
+      <edge id="329" source="CSNK2B" target="NCOA1" />
+      <edge id="330" source="CSNK2B" target="PTEN" />
+      <edge id="331" source="CSNK2B" target="SLC9A1" />
+      <edge id="332" source="ANK2" target="CACNG2" />
+      <edge id="333" source="SHANK2" target="L3MBTL4" />
+      <edge id="334" source="SHANK2" target="SHANK3" />
+      <edge id="335" source="BCL11A" target="ZNF282" />
+      <edge id="336" source="BCL11A" target="ZNF668" />
+      <edge id="337" source="SLC9A1" target="CACNG2" />
+      <edge id="338" source="SLC9A1" target="GNAI1" />
+      <edge id="339" source="SLC9A1" target="SLC5A8" />
+      <edge id="340" source="GABRG2" target="SCN2A" />
+      <edge id="341" source="RAI1" target="LRRFIP2" />
+      <edge id="342" source="GNAI1" target="CACNG2" />
+      <edge id="343" source="GNAI1" target="CREBBP" />
+      <edge id="344" source="CACNG2" target="DLG4" />
+      <edge id="345" source="CACNG2" target="SCN2A" />
+      <edge id="346" source="NCOA1" target="CREBBP" />
+      <edge id="347" source="DLG4" target="SCN2A" />
+      <edge id="348" source="ZNF668" target="ZNF282" />
+      <edge id="349" source="ZNF668" target="ZNF30" />
+      <edge id="350" source="ZNF668" target="ZNF416" />
+      <edge id="351" source="ZNF282" target="ZNF30" />
+      <edge id="352" source="ZNF282" target="ZNF416" />
+      <edge id="353" source="SHANK3" target="L3MBTL4" />
+      <edge id="354" source="PAX5" target="BAIAP3" />
+      <edge id="355" source="ZNF30" target="ZNF416" />
+    </edges>
+  </graph>
+</gexf>

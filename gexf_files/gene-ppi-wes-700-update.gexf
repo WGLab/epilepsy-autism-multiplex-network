@@ -1,0 +1,3372 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-11-03">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="module" type="long" />
+      <attribute id="1" title="multiplex_module" type="long" />
+      <attribute id="2" title="ppi_module" type="long" />
+      <attribute id="3" title="phenotype_module" type="long" />
+      <attribute id="4" title="type" type="string" />
+      <attribute id="5" title="epilepsy_type" type="long" />
+      <attribute id="6" title="autism_syndromic" type="long" />
+      <attribute id="7" title="autism_type" type="long" />
+    </attributes>
+    <nodes>
+      <node id="GABRB2" label="GABRB2">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="4" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ZNF668" label="ZNF668">
+        <attvalues>
+          <attvalue for="0" value="153" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="153" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="DYRK1A" label="DYRK1A">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="9" />
+          <attvalue for="3" value="10" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="3" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ARL8A" label="ARL8A">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="15" />
+          <attvalue for="3" value="27" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="RAB40C" label="RAB40C">
+        <attvalues>
+          <attvalue for="0" value="46" />
+          <attvalue for="1" value="13" />
+          <attvalue for="2" value="46" />
+          <attvalue for="3" value="12" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="RECQL5" label="RECQL5">
+        <attvalues>
+          <attvalue for="0" value="42" />
+          <attvalue for="1" value="35" />
+          <attvalue for="2" value="42" />
+          <attvalue for="3" value="55" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="SKI" label="SKI">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="118" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="4" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="IQGAP2" label="IQGAP2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="27" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="SPAST" label="SPAST">
+        <attvalues>
+          <attvalue for="0" value="100" />
+          <attvalue for="1" value="17" />
+          <attvalue for="2" value="100" />
+          <attvalue for="3" value="26" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="CNN3" label="CNN3">
+        <attvalues>
+          <attvalue for="0" value="28" />
+          <attvalue for="1" value="27" />
+          <attvalue for="2" value="28" />
+          <attvalue for="3" value="44" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="RAD51C" label="RAD51C">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ADCY9" label="ADCY9">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="9" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ITGB6" label="ITGB6">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="8" />
+          <attvalue for="3" value="28" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="DGKD" label="DGKD">
+        <attvalues>
+          <attvalue for="0" value="95" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="95" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="5" value="4" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="GBF1" label="GBF1">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="7" />
+          <attvalue for="3" value="16" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="POM121L12" label="POM121L12">
+        <attvalues>
+          <attvalue for="0" value="65" />
+          <attvalue for="1" value="43" />
+          <attvalue for="2" value="65" />
+          <attvalue for="3" value="72" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="AAGAB" label="AAGAB">
+        <attvalues>
+          <attvalue for="0" value="125" />
+          <attvalue for="1" value="76" />
+          <attvalue for="2" value="125" />
+          <attvalue for="3" value="123" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="TSC1" label="TSC1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="33" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="5" value="2" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="GNAI1" label="GNAI1">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="9" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="MYH3" label="MYH3">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="65" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="SHANK2" label="SHANK2">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="PHF2" label="PHF2">
+        <attvalues>
+          <attvalue for="0" value="56" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="56" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="INPPL1" label="INPPL1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="NR3C2" label="NR3C2">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="7" />
+          <attvalue for="3" value="69" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="LRRC4C" label="LRRC4C">
+        <attvalues>
+          <attvalue for="0" value="124" />
+          <attvalue for="1" value="20" />
+          <attvalue for="2" value="124" />
+          <attvalue for="3" value="24" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ZMYND8" label="ZMYND8">
+        <attvalues>
+          <attvalue for="0" value="32" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="32" />
+          <attvalue for="3" value="15" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="4" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="VEZF1" label="VEZF1">
+        <attvalues>
+          <attvalue for="0" value="49" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="49" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ANK2" label="ANK2">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="L3MBTL4" label="L3MBTL4">
+        <attvalues>
+          <attvalue for="0" value="168" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="168" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="GRIA2" label="GRIA2">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="MBD5" label="MBD5">
+        <attvalues>
+          <attvalue for="0" value="55" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="55" />
+          <attvalue for="3" value="10" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="3" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="MED13L" label="MED13L">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="41" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="3" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="FBXL6" label="FBXL6">
+        <attvalues>
+          <attvalue for="0" value="52" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="52" />
+          <attvalue for="3" value="33" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="PLEKHG5" label="PLEKHG5">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="23" />
+          <attvalue for="2" value="19" />
+          <attvalue for="3" value="35" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="FDXR" label="FDXR">
+        <attvalues>
+          <attvalue for="0" value="138" />
+          <attvalue for="1" value="82" />
+          <attvalue for="2" value="138" />
+          <attvalue for="3" value="135" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="RFX3" label="RFX3">
+        <attvalues>
+          <attvalue for="0" value="24" />
+          <attvalue for="1" value="26" />
+          <attvalue for="2" value="24" />
+          <attvalue for="3" value="40" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="4" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="TEK" label="TEK">
+        <attvalues>
+          <attvalue for="0" value="74" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="74" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="PPP2R5D" label="PPP2R5D">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="3" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="KDM5B" label="KDM5B">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="TLK2" label="TLK2">
+        <attvalues>
+          <attvalue for="0" value="37" />
+          <attvalue for="1" value="32" />
+          <attvalue for="2" value="37" />
+          <attvalue for="3" value="52" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="HECW2" label="HECW2">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="10" />
+          <attvalue for="3" value="22" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="5" value="4" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="PTEN" label="PTEN">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="3" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="LGI1" label="LGI1">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="70" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="DPYSL2" label="DPYSL2">
+        <attvalues>
+          <attvalue for="0" value="106" />
+          <attvalue for="1" value="68" />
+          <attvalue for="2" value="106" />
+          <attvalue for="3" value="111" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="CACNA1G" label="CACNA1G">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="98" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="5" value="4" />
+          <attvalue for="7" value="3" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="NRG3" label="NRG3">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="8" />
+          <attvalue for="3" value="100" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="5" value="4" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="MSH3" label="MSH3">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="134" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="KCNJ14" label="KCNJ14">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="KCNQ3" label="KCNQ3">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="1" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="KCNT2" label="KCNT2">
+        <attvalues>
+          <attvalue for="0" value="115" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="115" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="TCF20" label="TCF20">
+        <attvalues>
+          <attvalue for="0" value="163" />
+          <attvalue for="1" value="21" />
+          <attvalue for="2" value="163" />
+          <attvalue for="3" value="32" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="PPP1R9B" label="PPP1R9B">
+        <attvalues>
+          <attvalue for="0" value="80" />
+          <attvalue for="1" value="54" />
+          <attvalue for="2" value="80" />
+          <attvalue for="3" value="84" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ARID1B" label="ARID1B">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="3" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="MAP3K1" label="MAP3K1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="20" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="GABRG2" label="GABRG2">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="CACNA1E" label="CACNA1E">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ASGR2" label="ASGR2">
+        <attvalues>
+          <attvalue for="0" value="118" />
+          <attvalue for="1" value="72" />
+          <attvalue for="2" value="118" />
+          <attvalue for="3" value="115" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="LETM2" label="LETM2">
+        <attvalues>
+          <attvalue for="0" value="47" />
+          <attvalue for="1" value="38" />
+          <attvalue for="2" value="47" />
+          <attvalue for="3" value="59" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="TRIOBP" label="TRIOBP">
+        <attvalues>
+          <attvalue for="0" value="139" />
+          <attvalue for="1" value="18" />
+          <attvalue for="2" value="139" />
+          <attvalue for="3" value="31" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="POC1A" label="POC1A">
+        <attvalues>
+          <attvalue for="0" value="105" />
+          <attvalue for="1" value="12" />
+          <attvalue for="2" value="105" />
+          <attvalue for="3" value="8" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="AMBRA1" label="AMBRA1">
+        <attvalues>
+          <attvalue for="0" value="29" />
+          <attvalue for="1" value="12" />
+          <attvalue for="2" value="29" />
+          <attvalue for="3" value="8" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="UBR1" label="UBR1">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="10" />
+          <attvalue for="3" value="108" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="TRIM3" label="TRIM3">
+        <attvalues>
+          <attvalue for="0" value="111" />
+          <attvalue for="1" value="13" />
+          <attvalue for="2" value="111" />
+          <attvalue for="3" value="12" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="PPFIA3" label="PPFIA3">
+        <attvalues>
+          <attvalue for="0" value="82" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="82" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="TRPM6" label="TRPM6">
+        <attvalues>
+          <attvalue for="0" value="34" />
+          <attvalue for="1" value="30" />
+          <attvalue for="2" value="34" />
+          <attvalue for="3" value="47" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="MEFV" label="MEFV">
+        <attvalues>
+          <attvalue for="0" value="148" />
+          <attvalue for="1" value="13" />
+          <attvalue for="2" value="148" />
+          <attvalue for="3" value="12" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="TM9SF4" label="TM9SF4">
+        <attvalues>
+          <attvalue for="0" value="91" />
+          <attvalue for="1" value="63" />
+          <attvalue for="2" value="91" />
+          <attvalue for="3" value="96" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="CACNG2" label="CACNG2">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="GGA2" label="GGA2">
+        <attvalues>
+          <attvalue for="0" value="135" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="135" />
+          <attvalue for="3" value="23" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="HDLBP" label="HDLBP">
+        <attvalues>
+          <attvalue for="0" value="129" />
+          <attvalue for="1" value="16" />
+          <attvalue for="2" value="129" />
+          <attvalue for="3" value="17" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="3" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="TAOK1" label="TAOK1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="43" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="SLC6A2" label="SLC6A2">
+        <attvalues>
+          <attvalue for="0" value="101" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="101" />
+          <attvalue for="3" value="9" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="RBM4" label="RBM4">
+        <attvalues>
+          <attvalue for="0" value="131" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="131" />
+          <attvalue for="3" value="13" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="SMARCC2" label="SMARCC2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="PI4K2A" label="PI4K2A">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="94" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="IRF2BPL" label="IRF2BPL">
+        <attvalues>
+          <attvalue for="0" value="133" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="133" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ZNF587" label="ZNF587">
+        <attvalues>
+          <attvalue for="0" value="57" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="57" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="GLDC" label="GLDC">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="11" />
+          <attvalue for="3" value="11" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="CMTR2" label="CMTR2">
+        <attvalues>
+          <attvalue for="0" value="72" />
+          <attvalue for="1" value="49" />
+          <attvalue for="2" value="72" />
+          <attvalue for="3" value="79" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="SCN2A" label="SCN2A">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="common" />
+          <attvalue for="5" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="KAT5" label="KAT5">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="AGXT2" label="AGXT2">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="11" />
+          <attvalue for="3" value="11" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="RAI1" label="RAI1">
+        <attvalues>
+          <attvalue for="0" value="146" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="146" />
+          <attvalue for="3" value="13" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="3" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="GTPBP2" label="GTPBP2">
+        <attvalues>
+          <attvalue for="0" value="128" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="128" />
+          <attvalue for="3" value="29" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="PSG4" label="PSG4">
+        <attvalues>
+          <attvalue for="0" value="120" />
+          <attvalue for="1" value="19" />
+          <attvalue for="2" value="120" />
+          <attvalue for="3" value="25" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="EYA4" label="EYA4">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="37" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="STK39" label="STK39">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="28" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="7" value="3" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="STIL" label="STIL">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="7" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="M1AP" label="M1AP">
+        <attvalues>
+          <attvalue for="0" value="162" />
+          <attvalue for="1" value="92" />
+          <attvalue for="2" value="162" />
+          <attvalue for="3" value="152" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="POGZ" label="POGZ">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="9" />
+          <attvalue for="3" value="10" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="3" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="CMTM1" label="CMTM1">
+        <attvalues>
+          <attvalue for="0" value="113" />
+          <attvalue for="1" value="70" />
+          <attvalue for="2" value="113" />
+          <attvalue for="3" value="113" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="F13B" label="F13B">
+        <attvalues>
+          <attvalue for="0" value="39" />
+          <attvalue for="1" value="34" />
+          <attvalue for="2" value="39" />
+          <attvalue for="3" value="54" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="METTL20" label="METTL20">
+        <attvalues>
+          <attvalue for="0" value="136" />
+          <attvalue for="1" value="80" />
+          <attvalue for="2" value="136" />
+          <attvalue for="3" value="132" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ATP9B" label="ATP9B">
+        <attvalues>
+          <attvalue for="0" value="84" />
+          <attvalue for="1" value="57" />
+          <attvalue for="2" value="84" />
+          <attvalue for="3" value="89" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="GTPBP6" label="GTPBP6">
+        <attvalues>
+          <attvalue for="0" value="71" />
+          <attvalue for="1" value="48" />
+          <attvalue for="2" value="71" />
+          <attvalue for="3" value="77" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ATP6V1C2" label="ATP6V1C2">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="PAX5" label="PAX5">
+        <attvalues>
+          <attvalue for="0" value="158" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="158" />
+          <attvalue for="3" value="19" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ZNF416" label="ZNF416">
+        <attvalues>
+          <attvalue for="0" value="164" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="164" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="AGO1" label="AGO1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="116" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="TCF4" label="TCF4">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="122" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="3" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="MED12" label="MED12">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="151" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="5" value="4" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="SLC6A7" label="SLC6A7">
+        <attvalues>
+          <attvalue for="0" value="64" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="64" />
+          <attvalue for="3" value="9" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="BAIAP3" label="BAIAP3">
+        <attvalues>
+          <attvalue for="0" value="160" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="160" />
+          <attvalue for="3" value="19" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="NEXMIF" label="NEXMIF">
+        <attvalues>
+          <attvalue for="0" value="68" />
+          <attvalue for="1" value="45" />
+          <attvalue for="2" value="68" />
+          <attvalue for="3" value="74" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="5" value="4" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="KCNB1" label="KCNB1">
+        <attvalues>
+          <attvalue for="0" value="33" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="33" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="common" />
+          <attvalue for="5" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="RINL" label="RINL">
+        <attvalues>
+          <attvalue for="0" value="103" />
+          <attvalue for="1" value="15" />
+          <attvalue for="2" value="103" />
+          <attvalue for="3" value="14" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ALDH7A1" label="ALDH7A1">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="11" />
+          <attvalue for="3" value="128" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="TFB2M" label="TFB2M">
+        <attvalues>
+          <attvalue for="0" value="108" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="108" />
+          <attvalue for="3" value="16" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="MCF2L2" label="MCF2L2">
+        <attvalues>
+          <attvalue for="0" value="78" />
+          <attvalue for="1" value="15" />
+          <attvalue for="2" value="78" />
+          <attvalue for="3" value="14" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="GABRA1" label="GABRA1">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="SRPR" label="SRPR">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="13" />
+          <attvalue for="3" value="67" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="CUL7" label="CUL7">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="10" />
+          <attvalue for="3" value="150" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="LYZL2" label="LYZL2">
+        <attvalues>
+          <attvalue for="0" value="112" />
+          <attvalue for="1" value="69" />
+          <attvalue for="2" value="112" />
+          <attvalue for="3" value="112" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="EGFR" label="EGFR">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="8" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="CYP4F11" label="CYP4F11">
+        <attvalues>
+          <attvalue for="0" value="66" />
+          <attvalue for="1" value="44" />
+          <attvalue for="2" value="66" />
+          <attvalue for="3" value="73" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="EIF3G" label="EIF3G">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="3" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="KCNMA1" label="KCNMA1">
+        <attvalues>
+          <attvalue for="0" value="41" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="41" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="1" />
+          <attvalue for="7" value="3" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="CC2D1A" label="CC2D1A">
+        <attvalues>
+          <attvalue for="0" value="169" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="169" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="DNAJC13" label="DNAJC13">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="15" />
+          <attvalue for="3" value="30" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="TBL1XR1" label="TBL1XR1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="8" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="4" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="RORB" label="RORB">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="20" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="4" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="MTRF1" label="MTRF1">
+        <attvalues>
+          <attvalue for="0" value="167" />
+          <attvalue for="1" value="95" />
+          <attvalue for="2" value="167" />
+          <attvalue for="3" value="156" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="CDK5RAP2" label="CDK5RAP2">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="7" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="MAP3K4" label="MAP3K4">
+        <attvalues>
+          <attvalue for="0" value="90" />
+          <attvalue for="1" value="62" />
+          <attvalue for="2" value="90" />
+          <attvalue for="3" value="95" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="NRXN1" label="NRXN1">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="102" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="3" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="DNAH17" label="DNAH17">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="7" />
+          <attvalue for="3" value="15" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="7" value="3" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="EIF4G1" label="EIF4G1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="30" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="COL6A2" label="COL6A2">
+        <attvalues>
+          <attvalue for="0" value="159" />
+          <attvalue for="1" value="91" />
+          <attvalue for="2" value="159" />
+          <attvalue for="3" value="149" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="5" value="4" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="CHD2" label="CHD2">
+        <attvalues>
+          <attvalue for="0" value="67" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="67" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="common" />
+          <attvalue for="5" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="CDAN1" label="CDAN1">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="17" />
+          <attvalue for="3" value="34" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="STXBP1" label="STXBP1">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="common" />
+          <attvalue for="5" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="NEBL" label="NEBL">
+        <attvalues>
+          <attvalue for="0" value="48" />
+          <attvalue for="1" value="39" />
+          <attvalue for="2" value="48" />
+          <attvalue for="3" value="61" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="BCL11A" label="BCL11A">
+        <attvalues>
+          <attvalue for="0" value="140" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="140" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="POLR3C" label="POLR3C">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="14" />
+          <attvalue for="3" value="110" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="TOM1L2" label="TOM1L2">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="88" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="MARK3" label="MARK3">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="101" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="NCOA1" label="NCOA1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="GAL3ST3" label="GAL3ST3">
+        <attvalues>
+          <attvalue for="0" value="149" />
+          <attvalue for="1" value="88" />
+          <attvalue for="2" value="149" />
+          <attvalue for="3" value="142" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="SHANK3" label="SHANK3">
+        <attvalues>
+          <attvalue for="0" value="157" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="157" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="3" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="HECTD4" label="HECTD4">
+        <attvalues>
+          <attvalue for="0" value="61" />
+          <attvalue for="1" value="42" />
+          <attvalue for="2" value="61" />
+          <attvalue for="3" value="71" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="TNPO1" label="TNPO1">
+        <attvalues>
+          <attvalue for="0" value="150" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="150" />
+          <attvalue for="3" value="16" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="PTPRG" label="PTPRG">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="8" />
+          <attvalue for="3" value="39" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="CLK1" label="CLK1">
+        <attvalues>
+          <attvalue for="0" value="30" />
+          <attvalue for="1" value="28" />
+          <attvalue for="2" value="30" />
+          <attvalue for="3" value="45" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="SLC6A1" label="SLC6A1">
+        <attvalues>
+          <attvalue for="0" value="63" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="63" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="common" />
+          <attvalue for="5" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="COBLL1" label="COBLL1">
+        <attvalues>
+          <attvalue for="0" value="102" />
+          <attvalue for="1" value="67" />
+          <attvalue for="2" value="102" />
+          <attvalue for="3" value="107" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="THSD7A" label="THSD7A">
+        <attvalues>
+          <attvalue for="0" value="73" />
+          <attvalue for="1" value="50" />
+          <attvalue for="2" value="73" />
+          <attvalue for="3" value="80" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="SYNE2" label="SYNE2">
+        <attvalues>
+          <attvalue for="0" value="122" />
+          <attvalue for="1" value="74" />
+          <attvalue for="2" value="122" />
+          <attvalue for="3" value="119" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="PPARG" label="PPARG">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="127" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="GTF3C4" label="GTF3C4">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="14" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="HK3" label="HK3">
+        <attvalues>
+          <attvalue for="0" value="110" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="110" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="FXR1" label="FXR1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="DNAH8" label="DNAH8">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="7" />
+          <attvalue for="3" value="15" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="SLC9A1" label="SLC9A1">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="8" />
+          <attvalue for="3" value="9" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="NSD1" label="NSD1">
+        <attvalues>
+          <attvalue for="0" value="121" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="121" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="3" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="RECK" label="RECK">
+        <attvalues>
+          <attvalue for="0" value="154" />
+          <attvalue for="1" value="89" />
+          <attvalue for="2" value="154" />
+          <attvalue for="3" value="146" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="AP2S1" label="AP2S1">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="8" />
+          <attvalue for="3" value="120" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="TBR1" label="TBR1">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="29" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="INSC" label="INSC">
+        <attvalues>
+          <attvalue for="0" value="104" />
+          <attvalue for="1" value="18" />
+          <attvalue for="2" value="104" />
+          <attvalue for="3" value="31" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="DNAH3" label="DNAH3">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="7" />
+          <attvalue for="3" value="15" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="7" value="3" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="KIAA0232" label="KIAA0232">
+        <attvalues>
+          <attvalue for="0" value="87" />
+          <attvalue for="1" value="60" />
+          <attvalue for="2" value="87" />
+          <attvalue for="3" value="92" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="HTR5A" label="HTR5A">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="9" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="RC3H2" label="RC3H2">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="10" />
+          <attvalue for="3" value="130" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="TRAF7" label="TRAF7">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="10" />
+          <attvalue for="3" value="42" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="3" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="C1orf177" label="C1orf177">
+        <attvalues>
+          <attvalue for="0" value="144" />
+          <attvalue for="1" value="85" />
+          <attvalue for="2" value="144" />
+          <attvalue for="3" value="138" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="NPC1L1" label="NPC1L1">
+        <attvalues>
+          <attvalue for="0" value="36" />
+          <attvalue for="1" value="16" />
+          <attvalue for="2" value="36" />
+          <attvalue for="3" value="17" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="5" value="4" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="SRRM2" label="SRRM2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="145" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="COLQ" label="COLQ">
+        <attvalues>
+          <attvalue for="0" value="156" />
+          <attvalue for="1" value="90" />
+          <attvalue for="2" value="156" />
+          <attvalue for="3" value="148" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="CTSA" label="CTSA">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="7" />
+          <attvalue for="3" value="23" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="CDC20B" label="CDC20B">
+        <attvalues>
+          <attvalue for="0" value="93" />
+          <attvalue for="1" value="12" />
+          <attvalue for="2" value="93" />
+          <attvalue for="3" value="8" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="CSNK2B" label="CSNK2B">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="MEI1" label="MEI1">
+        <attvalues>
+          <attvalue for="0" value="44" />
+          <attvalue for="1" value="36" />
+          <attvalue for="2" value="44" />
+          <attvalue for="3" value="57" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ANKRD13B" label="ANKRD13B">
+        <attvalues>
+          <attvalue for="0" value="147" />
+          <attvalue for="1" value="87" />
+          <attvalue for="2" value="147" />
+          <attvalue for="3" value="141" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="MYO10" label="MYO10">
+        <attvalues>
+          <attvalue for="0" value="79" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="79" />
+          <attvalue for="3" value="21" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="MAP1A" label="MAP1A">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="126" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="SH2D3C" label="SH2D3C">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="64" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ASXL3" label="ASXL3">
+        <attvalues>
+          <attvalue for="0" value="59" />
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="59" />
+          <attvalue for="3" value="22" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="DEAF1" label="DEAF1">
+        <attvalues>
+          <attvalue for="0" value="43" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="43" />
+          <attvalue for="3" value="13" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="3" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="TRIP12" label="TRIP12">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="10" />
+          <attvalue for="3" value="56" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="GPRC5C" label="GPRC5C">
+        <attvalues>
+          <attvalue for="0" value="99" />
+          <attvalue for="1" value="66" />
+          <attvalue for="2" value="99" />
+          <attvalue for="3" value="105" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="WAC" label="WAC">
+        <attvalues>
+          <attvalue for="0" value="40" />
+          <attvalue for="1" value="21" />
+          <attvalue for="2" value="40" />
+          <attvalue for="3" value="32" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ADCY10" label="ADCY10">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="9" />
+          <attvalue for="3" value="153" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="SATB1" label="SATB1">
+        <attvalues>
+          <attvalue for="0" value="81" />
+          <attvalue for="1" value="55" />
+          <attvalue for="2" value="81" />
+          <attvalue for="3" value="86" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="STOX1" label="STOX1">
+        <attvalues>
+          <attvalue for="0" value="45" />
+          <attvalue for="1" value="37" />
+          <attvalue for="2" value="45" />
+          <attvalue for="3" value="58" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="FOXP1" label="FOXP1">
+        <attvalues>
+          <attvalue for="0" value="51" />
+          <attvalue for="1" value="41" />
+          <attvalue for="2" value="51" />
+          <attvalue for="3" value="63" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="CORO1A" label="CORO1A">
+        <attvalues>
+          <attvalue for="0" value="27" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="27" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="NUP155" label="NUP155">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="97" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="PCCB" label="PCCB">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="11" />
+          <attvalue for="3" value="11" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="TRIM23" label="TRIM23">
+        <attvalues>
+          <attvalue for="0" value="97" />
+          <attvalue for="1" value="13" />
+          <attvalue for="2" value="97" />
+          <attvalue for="3" value="12" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="EEF1A2" label="EEF1A2">
+        <attvalues>
+          <attvalue for="0" value="58" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="58" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="TCTE1" label="TCTE1">
+        <attvalues>
+          <attvalue for="0" value="117" />
+          <attvalue for="1" value="71" />
+          <attvalue for="2" value="117" />
+          <attvalue for="3" value="114" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="HSF4" label="HSF4">
+        <attvalues>
+          <attvalue for="0" value="89" />
+          <attvalue for="1" value="61" />
+          <attvalue for="2" value="89" />
+          <attvalue for="3" value="93" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="FOXP2" label="FOXP2">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="HGS" label="HGS">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="8" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="LMF2" label="LMF2">
+        <attvalues>
+          <attvalue for="0" value="107" />
+          <attvalue for="1" value="16" />
+          <attvalue for="2" value="107" />
+          <attvalue for="3" value="17" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="KMT2C" label="KMT2C">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="PHF21A" label="PHF21A">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="18" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="DLG4" label="DLG4">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="SEC61A2" label="SEC61A2">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="13" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="DIP2A" label="DIP2A">
+        <attvalues>
+          <attvalue for="0" value="60" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="60" />
+          <attvalue for="3" value="18" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="LDB1" label="LDB1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="19" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="GLI1" label="GLI1">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="9" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="SLC7A9" label="SLC7A9">
+        <attvalues>
+          <attvalue for="0" value="130" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="130" />
+          <attvalue for="3" value="9" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="CACNA2D3" label="CACNA2D3">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="RNF168" label="RNF168">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="66" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="CELF4" label="CELF4">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="18" />
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="4" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="MST1" label="MST1">
+        <attvalues>
+          <attvalue for="0" value="31" />
+          <attvalue for="1" value="29" />
+          <attvalue for="2" value="31" />
+          <attvalue for="3" value="46" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="TYR" label="TYR">
+        <attvalues>
+          <attvalue for="0" value="116" />
+          <attvalue for="1" value="15" />
+          <attvalue for="2" value="116" />
+          <attvalue for="3" value="14" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ASH1L" label="ASH1L">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="LY75-CD302" label="LY75-CD302">
+        <attvalues>
+          <attvalue for="0" value="145" />
+          <attvalue for="1" value="86" />
+          <attvalue for="2" value="145" />
+          <attvalue for="3" value="139" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="MTMR11" label="MTMR11">
+        <attvalues>
+          <attvalue for="0" value="143" />
+          <attvalue for="1" value="84" />
+          <attvalue for="2" value="143" />
+          <attvalue for="3" value="137" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="5" value="4" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="MKX" label="MKX">
+        <attvalues>
+          <attvalue for="0" value="137" />
+          <attvalue for="1" value="81" />
+          <attvalue for="2" value="137" />
+          <attvalue for="3" value="133" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ATR" label="ATR">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="WDR59" label="WDR59">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="12" />
+          <attvalue for="2" value="16" />
+          <attvalue for="3" value="8" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ZNF282" label="ZNF282">
+        <attvalues>
+          <attvalue for="0" value="155" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="155" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="CRIPAK" label="CRIPAK">
+        <attvalues>
+          <attvalue for="0" value="86" />
+          <attvalue for="1" value="59" />
+          <attvalue for="2" value="86" />
+          <attvalue for="3" value="91" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="DNMT3A" label="DNMT3A">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="140" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="3" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ARID3C" label="ARID3C">
+        <attvalues>
+          <attvalue for="0" value="21" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="21" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="KIAA1919" label="KIAA1919">
+        <attvalues>
+          <attvalue for="0" value="165" />
+          <attvalue for="1" value="93" />
+          <attvalue for="2" value="165" />
+          <attvalue for="3" value="154" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="GIGYF1" label="GIGYF1">
+        <attvalues>
+          <attvalue for="0" value="35" />
+          <attvalue for="1" value="31" />
+          <attvalue for="2" value="35" />
+          <attvalue for="3" value="48" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="UNC13D" label="UNC13D">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="7" />
+          <attvalue for="3" value="147" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="DDIAS" label="DDIAS">
+        <attvalues>
+          <attvalue for="0" value="94" />
+          <attvalue for="1" value="65" />
+          <attvalue for="2" value="94" />
+          <attvalue for="3" value="103" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="WDR35" label="WDR35">
+        <attvalues>
+          <attvalue for="0" value="114" />
+          <attvalue for="1" value="12" />
+          <attvalue for="2" value="114" />
+          <attvalue for="3" value="8" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="GFAP" label="GFAP">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="60" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="NACC1" label="NACC1">
+        <attvalues>
+          <attvalue for="0" value="92" />
+          <attvalue for="1" value="64" />
+          <attvalue for="2" value="92" />
+          <attvalue for="3" value="99" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="3" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="CCDC66" label="CCDC66">
+        <attvalues>
+          <attvalue for="0" value="132" />
+          <attvalue for="1" value="79" />
+          <attvalue for="2" value="132" />
+          <attvalue for="3" value="129" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="PRR12" label="PRR12">
+        <attvalues>
+          <attvalue for="0" value="123" />
+          <attvalue for="1" value="75" />
+          <attvalue for="2" value="123" />
+          <attvalue for="3" value="121" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="ANKRD11" label="ANKRD11">
+        <attvalues>
+          <attvalue for="0" value="142" />
+          <attvalue for="1" value="83" />
+          <attvalue for="2" value="142" />
+          <attvalue for="3" value="136" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="BBS1" label="BBS1">
+        <attvalues>
+          <attvalue for="0" value="25" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="25" />
+          <attvalue for="3" value="16" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="SLC5A8" label="SLC5A8">
+        <attvalues>
+          <attvalue for="0" value="151" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="151" />
+          <attvalue for="3" value="9" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="HSD17B4" label="HSD17B4">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="CD101" label="CD101">
+        <attvalues>
+          <attvalue for="0" value="96" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="96" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="SETD5" label="SETD5">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="10" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="4" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="CTNNB1" label="CTNNB1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ADNP" label="ADNP">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="9" />
+          <attvalue for="3" value="106" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="3" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="SPEN" label="SPEN">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ATAD3B" label="ATAD3B">
+        <attvalues>
+          <attvalue for="0" value="26" />
+          <attvalue for="1" value="17" />
+          <attvalue for="2" value="26" />
+          <attvalue for="3" value="26" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="DHTKD1" label="DHTKD1">
+        <attvalues>
+          <attvalue for="0" value="126" />
+          <attvalue for="1" value="77" />
+          <attvalue for="2" value="126" />
+          <attvalue for="3" value="124" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="DEPDC5" label="DEPDC5">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="12" />
+          <attvalue for="2" value="16" />
+          <attvalue for="3" value="49" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="ACAT1" label="ACAT1">
+        <attvalues>
+          <attvalue for="0" value="50" />
+          <attvalue for="1" value="40" />
+          <attvalue for="2" value="50" />
+          <attvalue for="3" value="62" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="TCF7L2" label="TCF7L2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="JUN" label="JUN">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="TSPAN11" label="TSPAN11">
+        <attvalues>
+          <attvalue for="0" value="77" />
+          <attvalue for="1" value="53" />
+          <attvalue for="2" value="77" />
+          <attvalue for="3" value="83" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="SEPN1" label="SEPN1">
+        <attvalues>
+          <attvalue for="0" value="69" />
+          <attvalue for="1" value="46" />
+          <attvalue for="2" value="69" />
+          <attvalue for="3" value="75" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="KDM6B" label="KDM6B">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="TOR1A" label="TOR1A">
+        <attvalues>
+          <attvalue for="0" value="134" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="134" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="5" value="4" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="GABRB3" label="GABRB3">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="1" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ATXN7" label="ATXN7">
+        <attvalues>
+          <attvalue for="0" value="166" />
+          <attvalue for="1" value="94" />
+          <attvalue for="2" value="166" />
+          <attvalue for="3" value="155" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="GRIN2B" label="GRIN2B">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="common" />
+          <attvalue for="5" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="SIN3A" label="SIN3A">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="109" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="KMT5B" label="KMT5B">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="10" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ARFGEF1" label="ARFGEF1">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="7" />
+          <attvalue for="3" value="21" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="KMT2E" label="KMT2E">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="SCUBE3" label="SCUBE3">
+        <attvalues>
+          <attvalue for="0" value="85" />
+          <attvalue for="1" value="58" />
+          <attvalue for="2" value="85" />
+          <attvalue for="3" value="90" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="SCN1A" label="SCN1A">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="common" />
+          <attvalue for="5" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="TFIP11" label="TFIP11">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="85" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="LASP1" label="LASP1">
+        <attvalues>
+          <attvalue for="0" value="76" />
+          <attvalue for="1" value="52" />
+          <attvalue for="2" value="76" />
+          <attvalue for="3" value="82" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ELAVL3" label="ELAVL3">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ATN1" label="ATN1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="50" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="PTK7" label="PTK7">
+        <attvalues>
+          <attvalue for="0" value="70" />
+          <attvalue for="1" value="47" />
+          <attvalue for="2" value="70" />
+          <attvalue for="3" value="76" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="PHF12" label="PHF12">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="18" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="PPFIBP2" label="PPFIBP2">
+        <attvalues>
+          <attvalue for="0" value="54" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="54" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="MBOAT2" label="MBOAT2">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="11" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="MBNL2" label="MBNL2">
+        <attvalues>
+          <attvalue for="0" value="119" />
+          <attvalue for="1" value="73" />
+          <attvalue for="2" value="119" />
+          <attvalue for="3" value="117" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="MYO5C" label="MYO5C">
+        <attvalues>
+          <attvalue for="0" value="141" />
+          <attvalue for="1" value="13" />
+          <attvalue for="2" value="141" />
+          <attvalue for="3" value="12" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="7" value="3" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="CADM4" label="CADM4">
+        <attvalues>
+          <attvalue for="0" value="98" />
+          <attvalue for="1" value="19" />
+          <attvalue for="2" value="98" />
+          <attvalue for="3" value="25" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ITGA6" label="ITGA6">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="8" />
+          <attvalue for="3" value="78" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="SETD2" label="SETD2">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="5" value="3" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="EIF4A3" label="EIF4A3">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="143" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="TECR" label="TECR">
+        <attvalues>
+          <attvalue for="0" value="53" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="53" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="GSTA1" label="GSTA1">
+        <attvalues>
+          <attvalue for="0" value="20" />
+          <attvalue for="1" value="24" />
+          <attvalue for="2" value="20" />
+          <attvalue for="3" value="36" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ELTD1" label="ELTD1">
+        <attvalues>
+          <attvalue for="0" value="38" />
+          <attvalue for="1" value="33" />
+          <attvalue for="2" value="38" />
+          <attvalue for="3" value="53" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="QSOX2" label="QSOX2">
+        <attvalues>
+          <attvalue for="0" value="23" />
+          <attvalue for="1" value="25" />
+          <attvalue for="2" value="23" />
+          <attvalue for="3" value="38" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="LDLR" label="LDLR">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="8" />
+          <attvalue for="3" value="131" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="SYNGAP1" label="SYNGAP1">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="3" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="CHD8" label="CHD8">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="9" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="3" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="SCN8A" label="SCN8A">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="common" />
+          <attvalue for="5" value="1" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="LRIG2" label="LRIG2">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="8" />
+          <attvalue for="3" value="68" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="EIF3A" label="EIF3A">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="UNC79" label="UNC79">
+        <attvalues>
+          <attvalue for="0" value="127" />
+          <attvalue for="1" value="78" />
+          <attvalue for="2" value="127" />
+          <attvalue for="3" value="125" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ZNF226" label="ZNF226">
+        <attvalues>
+          <attvalue for="0" value="109" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="109" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="LRRFIP2" label="LRRFIP2">
+        <attvalues>
+          <attvalue for="0" value="152" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="152" />
+          <attvalue for="3" value="13" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="HPS3" label="HPS3">
+        <attvalues>
+          <attvalue for="0" value="22" />
+          <attvalue for="1" value="15" />
+          <attvalue for="2" value="22" />
+          <attvalue for="3" value="14" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ZNF30" label="ZNF30">
+        <attvalues>
+          <attvalue for="0" value="161" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="161" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="DYNC1H1" label="DYNC1H1">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="7" />
+          <attvalue for="3" value="51" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="3" />
+          <attvalue for="7" value="2" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="CEPT1" label="CEPT1">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="11" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="KCNQ4" label="KCNQ4">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="MYT1L" label="MYT1L">
+        <attvalues>
+          <attvalue for="0" value="83" />
+          <attvalue for="1" value="56" />
+          <attvalue for="2" value="83" />
+          <attvalue for="3" value="87" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="3" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="PPP5C" label="PPP5C">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="TRMT61B" label="TRMT61B">
+        <attvalues>
+          <attvalue for="0" value="75" />
+          <attvalue for="1" value="51" />
+          <attvalue for="2" value="75" />
+          <attvalue for="3" value="81" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="ATM" label="ATM">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="144" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="PASK" label="PASK">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="104" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="CREBBP" label="CREBBP">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="5" value="4" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="DSCAM" label="DSCAM">
+        <attvalues>
+          <attvalue for="0" value="88" />
+          <attvalue for="1" value="20" />
+          <attvalue for="2" value="88" />
+          <attvalue for="3" value="24" />
+          <attvalue for="4" value="autism" />
+          <attvalue for="7" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="SLC22A2" label="SLC22A2">
+        <attvalues>
+          <attvalue for="0" value="62" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="62" />
+          <attvalue for="3" value="9" />
+          <attvalue for="4" value="epilepsy" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="GABRB2" target="GABRG2" />
+      <edge id="1" source="GABRB2" target="GABRA1" />
+      <edge id="2" source="GABRB2" target="GABRB3" />
+      <edge id="3" source="DYRK1A" target="GLI1" />
+      <edge id="4" source="DYRK1A" target="CHD8" />
+      <edge id="5" source="ARL8A" target="DNAJC13" />
+      <edge id="6" source="SKI" target="SIN3A" />
+      <edge id="7" source="IQGAP2" target="CTNNB1" />
+      <edge id="8" source="IQGAP2" target="MYH3" />
+      <edge id="9" source="RAD51C" target="ATM" />
+      <edge id="10" source="RAD51C" target="KAT5" />
+      <edge id="11" source="RAD51C" target="ATR" />
+      <edge id="12" source="ADCY9" target="GNAI1" />
+      <edge id="13" source="ADCY9" target="HTR5A" />
+      <edge id="14" source="ITGB6" target="ITGA6" />
+      <edge id="15" source="GBF1" target="ANK2" />
+      <edge id="16" source="GBF1" target="DYNC1H1" />
+      <edge id="17" source="GBF1" target="ARFGEF1" />
+      <edge id="18" source="TSC1" target="PTEN" />
+      <edge id="19" source="TSC1" target="PPP5C" />
+      <edge id="20" source="GNAI1" target="STXBP1" />
+      <edge id="21" source="GNAI1" target="EGFR" />
+      <edge id="22" source="GNAI1" target="GLI1" />
+      <edge id="23" source="GNAI1" target="HTR5A" />
+      <edge id="24" source="GNAI1" target="ADCY10" />
+      <edge id="25" source="SHANK2" target="NRXN1" />
+      <edge id="26" source="SHANK2" target="DLG4" />
+      <edge id="27" source="INPPL1" target="PTEN" />
+      <edge id="28" source="NR3C2" target="DYNC1H1" />
+      <edge id="29" source="NR3C2" target="NCOA1" />
+      <edge id="30" source="ANK2" target="SCN1A" />
+      <edge id="31" source="ANK2" target="SCN8A" />
+      <edge id="32" source="ANK2" target="DYNC1H1" />
+      <edge id="33" source="ANK2" target="SCN2A" />
+      <edge id="34" source="ANK2" target="KCNQ3" />
+      <edge id="35" source="GRIA2" target="GRIN2B" />
+      <edge id="36" source="GRIA2" target="CACNG2" />
+      <edge id="37" source="GRIA2" target="DLG4" />
+      <edge id="38" source="GRIA2" target="CTNNB1" />
+      <edge id="39" source="MED13L" target="NCOA1" />
+      <edge id="40" source="MED13L" target="PPARG" />
+      <edge id="41" source="MED13L" target="CREBBP" />
+      <edge id="42" source="MED13L" target="MED12" />
+      <edge id="43" source="MED13L" target="KMT2C" />
+      <edge id="44" source="MED13L" target="ASH1L" />
+      <edge id="45" source="PPP2R5D" target="DYNC1H1" />
+      <edge id="46" source="PPP2R5D" target="TAOK1" />
+      <edge id="47" source="PPP2R5D" target="EGFR" />
+      <edge id="48" source="PPP2R5D" target="CTNNB1" />
+      <edge id="49" source="PPP2R5D" target="EIF4G1" />
+      <edge id="50" source="PPP2R5D" target="MARK3" />
+      <edge id="51" source="KDM5B" target="KDM6B" />
+      <edge id="52" source="KDM5B" target="SETD2" />
+      <edge id="53" source="HECW2" target="UBR1" />
+      <edge id="54" source="HECW2" target="CUL7" />
+      <edge id="55" source="HECW2" target="TRIP12" />
+      <edge id="56" source="HECW2" target="TRAF7" />
+      <edge id="57" source="PTEN" target="EGFR" />
+      <edge id="58" source="PTEN" target="ATM" />
+      <edge id="59" source="PTEN" target="CTNNB1" />
+      <edge id="60" source="PTEN" target="PPARG" />
+      <edge id="61" source="PTEN" target="JUN" />
+      <edge id="62" source="PTEN" target="PI4K2A" />
+      <edge id="63" source="PTEN" target="AGO1" />
+      <edge id="64" source="PTEN" target="CSNK2B" />
+      <edge id="65" source="LGI1" target="DLG4" />
+      <edge id="66" source="LGI1" target="CACNG2" />
+      <edge id="67" source="CACNA1G" target="CACNA1E" />
+      <edge id="68" source="NRG3" target="EGFR" />
+      <edge id="69" source="MSH3" target="ATM" />
+      <edge id="70" source="MSH3" target="PHF21A" />
+      <edge id="71" source="KCNJ14" target="KCNQ3" />
+      <edge id="72" source="KCNJ14" target="KCNQ4" />
+      <edge id="73" source="KCNQ3" target="SCN1A" />
+      <edge id="74" source="KCNQ3" target="SCN2A" />
+      <edge id="75" source="KCNQ3" target="KCNQ4" />
+      <edge id="76" source="ARID1B" target="CREBBP" />
+      <edge id="77" source="ARID1B" target="SMARCC2" />
+      <edge id="78" source="ARID1B" target="DNMT3A" />
+      <edge id="79" source="MAP3K1" target="JUN" />
+      <edge id="80" source="GABRG2" target="SCN1A" />
+      <edge id="81" source="GABRG2" target="SCN2A" />
+      <edge id="82" source="GABRG2" target="GABRA1" />
+      <edge id="83" source="GABRG2" target="GABRB3" />
+      <edge id="84" source="CACNA1E" target="CACNG2" />
+      <edge id="85" source="CACNA1E" target="CACNA2D3" />
+      <edge id="86" source="UBR1" target="TRAF7" />
+      <edge id="87" source="UBR1" target="TRIP12" />
+      <edge id="88" source="UBR1" target="CUL7" />
+      <edge id="89" source="UBR1" target="RC3H2" />
+      <edge id="90" source="CACNG2" target="GRIN2B" />
+      <edge id="91" source="CACNG2" target="DLG4" />
+      <edge id="92" source="CACNG2" target="ATP6V1C2" />
+      <edge id="93" source="CACNG2" target="CACNA2D3" />
+      <edge id="94" source="TAOK1" target="DYNC1H1" />
+      <edge id="95" source="TAOK1" target="ATM" />
+      <edge id="96" source="SMARCC2" target="JUN" />
+      <edge id="97" source="SMARCC2" target="CREBBP" />
+      <edge id="98" source="SMARCC2" target="TBL1XR1" />
+      <edge id="99" source="SMARCC2" target="DNMT3A" />
+      <edge id="100" source="GLDC" target="AGXT2" />
+      <edge id="101" source="SCN2A" target="STXBP1" />
+      <edge id="102" source="SCN2A" target="GABRA1" />
+      <edge id="103" source="SCN2A" target="SCN8A" />
+      <edge id="104" source="KAT5" target="NCOA1" />
+      <edge id="105" source="KAT5" target="ATM" />
+      <edge id="106" source="KAT5" target="CTNNB1" />
+      <edge id="107" source="KAT5" target="CREBBP" />
+      <edge id="108" source="KAT5" target="TCF7L2" />
+      <edge id="109" source="KAT5" target="RNF168" />
+      <edge id="110" source="KAT5" target="ATR" />
+      <edge id="111" source="KAT5" target="PPP5C" />
+      <edge id="112" source="KAT5" target="EYA4" />
+      <edge id="113" source="AGXT2" target="PCCB" />
+      <edge id="114" source="AGXT2" target="ALDH7A1" />
+      <edge id="115" source="EYA4" target="ATM" />
+      <edge id="116" source="STK39" target="PHF12" />
+      <edge id="117" source="STIL" target="CDK5RAP2" />
+      <edge id="118" source="POGZ" target="CHD8" />
+      <edge id="119" source="POGZ" target="ADNP" />
+      <edge id="120" source="AGO1" target="JUN" />
+      <edge id="121" source="AGO1" target="CREBBP" />
+      <edge id="122" source="AGO1" target="KDM6B" />
+      <edge id="123" source="AGO1" target="KMT2C" />
+      <edge id="124" source="AGO1" target="KMT2E" />
+      <edge id="125" source="AGO1" target="SIN3A" />
+      <edge id="126" source="AGO1" target="PASK" />
+      <edge id="127" source="TCF4" target="CTNNB1" />
+      <edge id="128" source="TCF4" target="CREBBP" />
+      <edge id="129" source="TCF4" target="TBL1XR1" />
+      <edge id="130" source="TCF4" target="TCF7L2" />
+      <edge id="131" source="TCF4" target="LDB1" />
+      <edge id="132" source="MED12" target="NCOA1" />
+      <edge id="133" source="MED12" target="CTNNB1" />
+      <edge id="134" source="MED12" target="PPARG" />
+      <edge id="135" source="MED12" target="CREBBP" />
+      <edge id="136" source="MED12" target="SRRM2" />
+      <edge id="137" source="GABRA1" target="SCN1A" />
+      <edge id="138" source="GABRA1" target="GABRB3" />
+      <edge id="139" source="SRPR" target="SEC61A2" />
+      <edge id="140" source="CUL7" target="TRAF7" />
+      <edge id="141" source="CUL7" target="TRIP12" />
+      <edge id="142" source="EGFR" target="AP2S1" />
+      <edge id="143" source="EGFR" target="PPARG" />
+      <edge id="144" source="EGFR" target="JUN" />
+      <edge id="145" source="EGFR" target="LDLR" />
+      <edge id="146" source="EGFR" target="CTNNB1" />
+      <edge id="147" source="EGFR" target="HGS" />
+      <edge id="148" source="EGFR" target="SLC9A1" />
+      <edge id="149" source="EGFR" target="LRIG2" />
+      <edge id="150" source="EGFR" target="ITGA6" />
+      <edge id="151" source="EGFR" target="PTPRG" />
+      <edge id="152" source="EIF3G" target="EIF4G1" />
+      <edge id="153" source="EIF3G" target="EIF3A" />
+      <edge id="154" source="TBL1XR1" target="NCOA1" />
+      <edge id="155" source="TBL1XR1" target="CTNNB1" />
+      <edge id="156" source="TBL1XR1" target="CREBBP" />
+      <edge id="157" source="TBL1XR1" target="TCF7L2" />
+      <edge id="158" source="TBL1XR1" target="SIN3A" />
+      <edge id="159" source="RORB" target="NCOA1" />
+      <edge id="160" source="CDK5RAP2" target="DYNC1H1" />
+      <edge id="161" source="NRXN1" target="STXBP1" />
+      <edge id="162" source="NRXN1" target="DLG4" />
+      <edge id="163" source="DNAH17" target="DNAH8" />
+      <edge id="164" source="DNAH17" target="DNAH3" />
+      <edge id="165" source="DNAH17" target="DYNC1H1" />
+      <edge id="166" source="EIF4G1" target="EIF4A3" />
+      <edge id="167" source="EIF4G1" target="EIF3A" />
+      <edge id="168" source="EIF4G1" target="FXR1" />
+      <edge id="169" source="EIF4G1" target="SH2D3C" />
+      <edge id="170" source="STXBP1" target="SCN1A" />
+      <edge id="171" source="POLR3C" target="GTF3C4" />
+      <edge id="172" source="TOM1L2" target="SIN3A" />
+      <edge id="173" source="MARK3" target="FXR1" />
+      <edge id="174" source="NCOA1" target="PPARG" />
+      <edge id="175" source="NCOA1" target="JUN" />
+      <edge id="176" source="NCOA1" target="HSD17B4" />
+      <edge id="177" source="NCOA1" target="CREBBP" />
+      <edge id="178" source="NCOA1" target="SIN3A" />
+      <edge id="179" source="PPARG" target="CTNNB1" />
+      <edge id="180" source="PPARG" target="JUN" />
+      <edge id="181" source="PPARG" target="CREBBP" />
+      <edge id="182" source="PPARG" target="ATN1" />
+      <edge id="183" source="DNAH8" target="DYNC1H1" />
+      <edge id="184" source="DNAH8" target="DNAH3" />
+      <edge id="185" source="AP2S1" target="LDLR" />
+      <edge id="186" source="AP2S1" target="HGS" />
+      <edge id="187" source="TBR1" target="GRIN2B" />
+      <edge id="188" source="TBR1" target="FOXP2" />
+      <edge id="189" source="DNAH3" target="DYNC1H1" />
+      <edge id="190" source="TRAF7" target="TRIP12" />
+      <edge id="191" source="SRRM2" target="EIF4A3" />
+      <edge id="192" source="SRRM2" target="TFIP11" />
+      <edge id="193" source="CTSA" target="UNC13D" />
+      <edge id="194" source="CTSA" target="DYNC1H1" />
+      <edge id="195" source="CSNK2B" target="CTNNB1" />
+      <edge id="196" source="MAP1A" target="DLG4" />
+      <edge id="197" source="TRIP12" target="RNF168" />
+      <edge id="198" source="TRIP12" target="ASH1L" />
+      <edge id="199" source="NUP155" target="EIF4A3" />
+      <edge id="200" source="HGS" target="LDLR" />
+      <edge id="201" source="HGS" target="CTNNB1" />
+      <edge id="202" source="KMT2C" target="JUN" />
+      <edge id="203" source="KMT2C" target="CREBBP" />
+      <edge id="204" source="KMT2C" target="SPEN" />
+      <edge id="205" source="KMT2C" target="KMT2E" />
+      <edge id="206" source="KMT2C" target="SIN3A" />
+      <edge id="207" source="KMT2C" target="SETD5" />
+      <edge id="208" source="PHF21A" target="ATM" />
+      <edge id="209" source="PHF21A" target="SIN3A" />
+      <edge id="210" source="PHF21A" target="PHF12" />
+      <edge id="211" source="DLG4" target="GRIN2B" />
+      <edge id="212" source="DLG4" target="GFAP" />
+      <edge id="213" source="DLG4" target="SYNGAP1" />
+      <edge id="214" source="LDB1" target="CTNNB1" />
+      <edge id="215" source="LDB1" target="TCF7L2" />
+      <edge id="216" source="GLI1" target="SIN3A" />
+      <edge id="217" source="RNF168" target="ATM" />
+      <edge id="218" source="RNF168" target="PPP5C" />
+      <edge id="219" source="ASH1L" target="CREBBP" />
+      <edge id="220" source="ASH1L" target="SETD2" />
+      <edge id="221" source="ASH1L" target="KMT5B" />
+      <edge id="222" source="ATR" target="ATM" />
+      <edge id="223" source="WDR59" target="DEPDC5" />
+      <edge id="224" source="UNC13D" target="DYNC1H1" />
+      <edge id="225" source="GFAP" target="ELAVL3" />
+      <edge id="226" source="HSD17B4" target="JUN" />
+      <edge id="227" source="HSD17B4" target="CREBBP" />
+      <edge id="228" source="SETD5" target="SETD2" />
+      <edge id="229" source="CTNNB1" target="TCF7L2" />
+      <edge id="230" source="CTNNB1" target="JUN" />
+      <edge id="231" source="CTNNB1" target="CHD8" />
+      <edge id="232" source="CTNNB1" target="CREBBP" />
+      <edge id="233" source="ADNP" target="CHD8" />
+      <edge id="234" source="TCF7L2" target="JUN" />
+      <edge id="235" source="TCF7L2" target="CREBBP" />
+      <edge id="236" source="JUN" target="CREBBP" />
+      <edge id="237" source="JUN" target="ATN1" />
+      <edge id="238" source="JUN" target="KDM6B" />
+      <edge id="239" source="KDM6B" target="SETD2" />
+      <edge id="240" source="GRIN2B" target="CHD8" />
+      <edge id="241" source="GRIN2B" target="SYNGAP1" />
+      <edge id="242" source="SIN3A" target="CREBBP" />
+      <edge id="243" source="SIN3A" target="KMT2E" />
+      <edge id="244" source="SIN3A" target="PHF12" />
+      <edge id="245" source="KMT5B" target="SETD2" />
+      <edge id="246" source="TFIP11" target="EIF4A3" />
+      <edge id="247" source="PHF12" target="SETD2" />
+      <edge id="248" source="MBOAT2" target="CEPT1" />
+      <edge id="249" source="PPP5C" target="ATM" />
+    </edges>
+  </graph>
+</gexf>
