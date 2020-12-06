@@ -1,1 +1,1 @@
-# epilepsy-autism-PPI-network
+# epilepsy-autism-multiplex-network
