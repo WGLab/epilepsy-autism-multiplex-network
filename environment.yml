@@ -1,0 +1,8 @@
+name: epilepsy-autism-multiplex-network
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+dependencies:
+  - notebook
+prefix: /opt/anaconda3/envs/epilepsy-autism-multiplex-network
